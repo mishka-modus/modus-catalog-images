@@ -51,6 +51,13 @@ folder whose name starts with an underscore. A poster named `_teaser.jpg` would
 404 with a green build and no error anywhere. The empty `.nojekyll` file at the
 repo root turns Jekyll off and publishes the tree verbatim. Do not delete it.
 
+## `cinematheque-tlv/_selftest.png`
+
+A 1080 x 1080 checkerboard, kept on purpose. It is the one file whose correct
+appearance is known, so it answers "is Pages serving, and is it serving image
+bytes" without touching a client asset. Its underscore name is also the standing
+proof that `.nojekyll` is still doing its job.
+
 ## Wiring an image up
 
 1. Commit the file here and push. Pages redeploys in about a minute.
