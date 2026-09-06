@@ -44,6 +44,13 @@ Served at:
 Catalog ads are cropped again from the centre for 4:5 and 9:16 placements, so
 keep the logo and any text inside the middle of the frame.
 
+## `.nojekyll` is load-bearing
+
+GitHub Pages runs Jekyll by default, and Jekyll silently drops every file and
+folder whose name starts with an underscore. A poster named `_teaser.jpg` would
+404 with a green build and no error anywhere. The empty `.nojekyll` file at the
+repo root turns Jekyll off and publishes the tree verbatim. Do not delete it.
+
 ## Wiring an image up
 
 1. Commit the file here and push. Pages redeploys in about a minute.
