@@ -1804,12 +1804,12 @@ Dir: Frederic Hambalek
    <url>https://www.cinema.co.il/event/%d7%a0%d7%a9%d7%99%d7%9d/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
+   <status>archived</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-14</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260914</custom_number_0>
-   <custom_number_1>0</custom_number_1>
+   <custom_number_1>9999</custom_number_1>
    <custom_label_0>14.09.2026 17:30</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132431</custom_label_2>
@@ -1827,12 +1827,12 @@ Dir: Frederic Hambalek
    <url>https://www.cinema.co.il/event/%d7%9e%d7%94-%d7%a9%d7%9e%d7%a8%d7%99%d7%90%d7%9c-%d7%99%d7%95%d7%93%d7%a2%d7%aa/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
+   <status>archived</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-14</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260914</custom_number_0>
-   <custom_number_1>0</custom_number_1>
+   <custom_number_1>9999</custom_number_1>
    <custom_label_0>14.09.2026 17:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133129</custom_label_2>
@@ -1850,12 +1850,12 @@ Dir: Frederic Hambalek
    <url>https://www.cinema.co.il/event/%d7%91%d7%9c%d7%99%d7%99%d7%93-%d7%a8%d7%90%d7%a0%d7%a8-%d7%94%d7%92%d7%a8%d7%a1%d7%94-%d7%94%d7%a1%d7%95%d7%a4%d7%99%d7%aa-%d7%a4%d7%90%d7%a0%d7%9c-%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-%d7%90%d7%95/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
+   <status>archived</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-14</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260914</custom_number_0>
-   <custom_number_1>0</custom_number_1>
+   <custom_number_1>9999</custom_number_1>
    <custom_label_0>14.09.2026 19:30</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132783</custom_label_2>
@@ -1873,12 +1873,12 @@ Dir: Frederic Hambalek
    <url>https://www.cinema.co.il/event/%d7%97%d7%aa%d7%95%d7%a0%d7%aa%d7%94-%d7%a9%d7%9c-%d7%9e%d7%99%d7%95%d7%a8%d7%99%d7%90%d7%9c/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
+   <status>archived</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-14</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260914</custom_number_0>
-   <custom_number_1>0</custom_number_1>
+   <custom_number_1>9999</custom_number_1>
    <custom_label_0>14.09.2026 19:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133561</custom_label_2>
@@ -1896,12 +1896,12 @@ Dir: Frederic Hambalek
    <url>https://www.cinema.co.il/event/%d7%a7%d7%a9%d7%95%d7%a8%d7%95%d7%aa/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
+   <status>archived</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-14</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260914</custom_number_0>
-   <custom_number_1>0</custom_number_1>
+   <custom_number_1>9999</custom_number_1>
    <custom_label_0>14.09.2026 21:45</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132991</custom_label_2>
@@ -1931,7 +1931,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 10:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133577</custom_label_2>
@@ -1948,12 +1948,12 @@ Dir: Gianni Di Gregorio
    <url>https://www.cinema.co.il/event/%d7%9e%d7%90%d7%9e%d7%90/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
+   <status>archived</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-15</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 10:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134004</custom_label_2>
@@ -1976,7 +1976,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 11:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133149</custom_label_2>
@@ -1999,7 +1999,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 12:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133576</custom_label_2>
@@ -2022,7 +2022,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 12:45</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133150</custom_label_2>
@@ -2045,7 +2045,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 14:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133578</custom_label_2>
@@ -2068,7 +2068,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 16:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133108</custom_label_2>
@@ -2091,7 +2091,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 17:15</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133579</custom_label_2>
@@ -2114,7 +2114,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 18:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133223</custom_label_2>
@@ -2137,7 +2137,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 18:45</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132615</custom_label_2>
@@ -2160,11 +2160,11 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-15</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260915</custom_number_0>
-   <custom_number_1>1</custom_number_1>
+   <custom_number_1>0</custom_number_1>
    <custom_label_0>15.09.2026 21:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132656</custom_label_2>
-   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס</custom_label_3>
+   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס ; מאז, עדיין</custom_label_3>
    <custom_number_2>21265</custom_number_2>
   </item>
   <item>
@@ -2183,7 +2183,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-16</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260916</custom_number_0>
-   <custom_number_1>2</custom_number_1>
+   <custom_number_1>1</custom_number_1>
    <custom_label_0>16.09.2026 14:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133582</custom_label_2>
@@ -2206,7 +2206,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-16</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260916</custom_number_0>
-   <custom_number_1>2</custom_number_1>
+   <custom_number_1>1</custom_number_1>
    <custom_label_0>16.09.2026 16:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133704</custom_label_2>
@@ -2228,7 +2228,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-16</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260916</custom_number_0>
-   <custom_number_1>2</custom_number_1>
+   <custom_number_1>1</custom_number_1>
    <custom_label_0>16.09.2026 16:30</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133809</custom_label_2>
@@ -2250,7 +2250,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-16</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260916</custom_number_0>
-   <custom_number_1>2</custom_number_1>
+   <custom_number_1>1</custom_number_1>
    <custom_label_0>16.09.2026 18:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133516</custom_label_2>
@@ -2273,7 +2273,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-16</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260916</custom_number_0>
-   <custom_number_1>2</custom_number_1>
+   <custom_number_1>1</custom_number_1>
    <custom_label_0>16.09.2026 19:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/131869</custom_label_2>
@@ -2296,7 +2296,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-16</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260916</custom_number_0>
-   <custom_number_1>2</custom_number_1>
+   <custom_number_1>1</custom_number_1>
    <custom_label_0>16.09.2026 20:45</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132651</custom_label_2>
@@ -2318,7 +2318,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-17</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260917</custom_number_0>
-   <custom_number_1>3</custom_number_1>
+   <custom_number_1>2</custom_number_1>
    <custom_label_0>17.09.2026 16:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133703</custom_label_2>
@@ -2341,7 +2341,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-17</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260917</custom_number_0>
-   <custom_number_1>3</custom_number_1>
+   <custom_number_1>2</custom_number_1>
    <custom_label_0>17.09.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133705</custom_label_2>
@@ -2363,7 +2363,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-17</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260917</custom_number_0>
-   <custom_number_1>3</custom_number_1>
+   <custom_number_1>2</custom_number_1>
    <custom_label_0>17.09.2026 19:15</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132930</custom_label_2>
@@ -2386,7 +2386,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-17</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260917</custom_number_0>
-   <custom_number_1>3</custom_number_1>
+   <custom_number_1>2</custom_number_1>
    <custom_label_0>17.09.2026 21:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132993</custom_label_2>
@@ -2409,7 +2409,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-18</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 10:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/131761</custom_label_2>
@@ -2439,7 +2439,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-18</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 10:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133814</custom_label_2>
@@ -2461,7 +2461,7 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-18</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 10:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134006</custom_label_2>
@@ -2483,11 +2483,11 @@ Dir: Gianni Di Gregorio
    <activity_date>2026-09-18</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 12:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132670</custom_label_2>
-   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026</custom_label_3>
+   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; מאז, עדיין</custom_label_3>
    <custom_number_2>21266</custom_number_2>
   </item>
   <item>
@@ -2512,7 +2512,7 @@ Dir: Brady Corbet
    <activity_date>2026-09-18</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 12:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133132</custom_label_2>
@@ -2535,7 +2535,7 @@ Dir: Brady Corbet
    <activity_date>2026-09-18</activity_date>
    <location_name>אולם 6</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 13:00</custom_label_0>
    <custom_label_1>אולם 6</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133118</custom_label_2>
@@ -2557,7 +2557,7 @@ Dir: Brady Corbet
    <activity_date>2026-09-18</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 14:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133810</custom_label_2>
@@ -2588,7 +2588,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-18</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133812</custom_label_2>
@@ -2610,7 +2610,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-18</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134005</custom_label_2>
@@ -2633,7 +2633,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-18</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 18:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133811</custom_label_2>
@@ -2656,7 +2656,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-18</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 19:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133813</custom_label_2>
@@ -2679,7 +2679,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-18</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 21:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132955</custom_label_2>
@@ -2702,7 +2702,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-18</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260918</custom_number_0>
-   <custom_number_1>4</custom_number_1>
+   <custom_number_1>3</custom_number_1>
    <custom_label_0>18.09.2026 21:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132931</custom_label_2>
@@ -2725,7 +2725,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-19</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 11:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133410</custom_label_2>
@@ -2747,7 +2747,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-19</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 11:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133617</custom_label_2>
@@ -2770,7 +2770,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-19</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 11:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133119</custom_label_2>
@@ -2792,7 +2792,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-19</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 12:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132076</custom_label_2>
@@ -2815,7 +2815,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-19</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 13:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132463</custom_label_2>
@@ -2838,7 +2838,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-19</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 14:30</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132622</custom_label_2>
@@ -2861,7 +2861,7 @@ Dir: Mariano Cohn, Gaston Duprat
    <activity_date>2026-09-19</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 16:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/131865</custom_label_2>
@@ -2890,7 +2890,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-19</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 16:45</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133818</custom_label_2>
@@ -2912,7 +2912,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-19</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134007</custom_label_2>
@@ -2935,7 +2935,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-19</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 19:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133471</custom_label_2>
@@ -2957,7 +2957,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-19</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 19:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133815</custom_label_2>
@@ -2979,7 +2979,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-19</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 20:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133816</custom_label_2>
@@ -3002,7 +3002,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-19</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260919</custom_number_0>
-   <custom_number_1>5</custom_number_1>
+   <custom_number_1>4</custom_number_1>
    <custom_label_0>19.09.2026 21:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133817</custom_label_2>
@@ -3024,7 +3024,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 10:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133821</custom_label_2>
@@ -3046,11 +3046,11 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 12:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133151</custom_label_2>
-   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס</custom_label_3>
+   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס ; מאז, עדיין</custom_label_3>
    <custom_number_2>21265</custom_number_2>
   </item>
   <item>
@@ -3069,7 +3069,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 13:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134029</custom_label_2>
@@ -3092,7 +3092,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 16:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133148</custom_label_2>
@@ -3115,7 +3115,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133820</custom_label_2>
@@ -3138,7 +3138,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 18:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133224</custom_label_2>
@@ -3161,7 +3161,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 19:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133843</custom_label_2>
@@ -3184,7 +3184,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 21:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/131722</custom_label_2>
@@ -3207,7 +3207,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-22</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260922</custom_number_0>
-   <custom_number_1>8</custom_number_1>
+   <custom_number_1>7</custom_number_1>
    <custom_label_0>22.09.2026 21:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133822</custom_label_2>
@@ -3229,7 +3229,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-23</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260923</custom_number_0>
-   <custom_number_1>9</custom_number_1>
+   <custom_number_1>8</custom_number_1>
    <custom_label_0>23.09.2026 11:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133135</custom_label_2>
@@ -3252,7 +3252,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-23</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260923</custom_number_0>
-   <custom_number_1>9</custom_number_1>
+   <custom_number_1>8</custom_number_1>
    <custom_label_0>23.09.2026 16:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133845</custom_label_2>
@@ -3274,7 +3274,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-23</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260923</custom_number_0>
-   <custom_number_1>9</custom_number_1>
+   <custom_number_1>8</custom_number_1>
    <custom_label_0>23.09.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133909</custom_label_2>
@@ -3297,7 +3297,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-23</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260923</custom_number_0>
-   <custom_number_1>9</custom_number_1>
+   <custom_number_1>8</custom_number_1>
    <custom_label_0>23.09.2026 18:45</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133206</custom_label_2>
@@ -3319,7 +3319,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-23</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260923</custom_number_0>
-   <custom_number_1>9</custom_number_1>
+   <custom_number_1>8</custom_number_1>
    <custom_label_0>23.09.2026 19:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133205</custom_label_2>
@@ -3342,7 +3342,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-23</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260923</custom_number_0>
-   <custom_number_1>9</custom_number_1>
+   <custom_number_1>8</custom_number_1>
    <custom_label_0>23.09.2026 21:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132084</custom_label_2>
@@ -3365,7 +3365,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 10:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134049</custom_label_2>
@@ -3388,7 +3388,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 12:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134008</custom_label_2>
@@ -3411,7 +3411,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 13:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134048</custom_label_2>
@@ -3434,7 +3434,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 14:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133972</custom_label_2>
@@ -3456,7 +3456,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 16:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133917</custom_label_2>
@@ -3479,7 +3479,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 16:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133210</custom_label_2>
@@ -3501,7 +3501,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 18:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132505</custom_label_2>
@@ -3524,7 +3524,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 19:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132962</custom_label_2>
@@ -3547,7 +3547,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 21:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/131721</custom_label_2>
@@ -3569,7 +3569,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-24</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260924</custom_number_0>
-   <custom_number_1>10</custom_number_1>
+   <custom_number_1>9</custom_number_1>
    <custom_label_0>24.09.2026 21:30</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133513</custom_label_2>
@@ -3591,7 +3591,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 11:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133967</custom_label_2>
@@ -3613,11 +3613,11 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 12:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132456</custom_label_2>
-   <custom_label_3>במראה הישראלית</custom_label_3>
+   <custom_label_3>במראה הישראלית ; מאז, עדיין</custom_label_3>
    <custom_number_2>21251</custom_number_2>
   </item>
   <item>
@@ -3636,7 +3636,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>אולם 6</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 13:30</custom_label_0>
    <custom_label_1>אולם 6</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133375</custom_label_2>
@@ -3658,7 +3658,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 14:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133357</custom_label_2>
@@ -3681,7 +3681,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 15:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134030</custom_label_2>
@@ -3704,7 +3704,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134050</custom_label_2>
@@ -3726,7 +3726,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 18:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133583</custom_label_2>
@@ -3748,7 +3748,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 19:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133970</custom_label_2>
@@ -3770,11 +3770,11 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 21:30</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132956</custom_label_2>
-   <custom_label_3>צעירים סינמטק</custom_label_3>
+   <custom_label_3>אפטר בסינמטק תל אביב!</custom_label_3>
    <custom_number_2>21310</custom_number_2>
   </item>
   <item>
@@ -3793,7 +3793,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-25</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260925</custom_number_0>
-   <custom_number_1>11</custom_number_1>
+   <custom_number_1>10</custom_number_1>
    <custom_label_0>25.09.2026 21:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133412</custom_label_2>
@@ -3815,7 +3815,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 10:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133378</custom_label_2>
@@ -3837,7 +3837,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 11:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133215</custom_label_2>
@@ -3859,7 +3859,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 11:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133376</custom_label_2>
@@ -3881,7 +3881,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 13:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132403</custom_label_2>
@@ -3903,7 +3903,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 13:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134052</custom_label_2>
@@ -3925,7 +3925,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 16:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133212</custom_label_2>
@@ -3947,7 +3947,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133422</custom_label_2>
@@ -3964,12 +3964,12 @@ Dir: Salvador Calvo
    <url>https://www.cinema.co.il/event/%d7%91%d7%95%d7%a7%d7%a8-%d7%98%d7%95%d7%91-%d7%a2%d7%96%d7%94/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
+   <status>archived</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-26</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 19:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132928</custom_label_2>
@@ -3992,7 +3992,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 20:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133968</custom_label_2>
@@ -4014,11 +4014,11 @@ Dir: Salvador Calvo
    <activity_date>2026-09-26</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260926</custom_number_0>
-   <custom_number_1>12</custom_number_1>
+   <custom_number_1>11</custom_number_1>
    <custom_label_0>26.09.2026 21:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132667</custom_label_2>
-   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס</custom_label_3>
+   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס ; מאז, עדיין</custom_label_3>
    <custom_number_2>21265</custom_number_2>
   </item>
   <item>
@@ -4037,7 +4037,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-27</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
+   <custom_number_1>12</custom_number_1>
    <custom_label_0>27.09.2026 11:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132366</custom_label_2>
@@ -4059,35 +4059,12 @@ Dir: Salvador Calvo
    <activity_date>2026-09-27</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
+   <custom_number_1>12</custom_number_1>
    <custom_label_0>27.09.2026 11:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134056</custom_label_2>
    <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס</custom_label_3>
    <custom_number_2>20898</custom_number_2>
-  </item>
-  <item>
-   <id>134054</id>
-   <title>ערך סנטימנטלי</title>
-   <description>ערך סנטימנטלי | Sentimental Value הבמאי עטור הפרסים יואכים טרייר מתאחד עם רנטה ריינסב ("האדם הגרוע בעולם") לדרמה מרגשת שהדהימה את פסטיבל קאן וגרפה את הפרס הגדול. לאחר מות אִמה של נורה חוזר לחייה אביה גוסטב (סטלן סקארסגארד), במאי קולנוע מפורסם, ובאמתחתו הצעה: הוא מעוניין שהיא תגלם את התפקיד הראשי ביצירה אוטוביוגרפית חדשה שעליה הוא […]</description>
-   <price>45.00 ILS</price>
-   <image>
-    <url>https://www.cinema.co.il/wp-content/uploads/2026/01/%D7%A2%D7%A8%D7%9A-%D7%A1%D7%A0%D7%98%D7%99%D7%9E%D7%A0%D7%98%D7%9C%D7%99.jpg</url>
-   </image>
-   <url>https://www.cinema.co.il/event/%d7%a2%d7%a8%d7%9a-%d7%a1%d7%a0%d7%98%d7%99%d7%9e%d7%a0%d7%98%d7%9c%d7%99/</url>
-   <brand>Cinematheque Tel Aviv</brand>
-   <provider>Cinematheque Tel Aviv</provider>
-   <status>active</status>
-   <activity_category>Other</activity_category>
-   <activity_date>2026-09-27</activity_date>
-   <location_name>סינמטק תל אביב</location_name>
-   <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
-   <custom_label_0>27.09.2026 15:30</custom_label_0>
-   <custom_label_1>סינמטק תל אביב</custom_label_1>
-   <custom_label_2>https://cintlv.presglobal.store/order/134054</custom_label_2>
-   <custom_label_3>שלישי בשלייקס</custom_label_3>
-   <custom_number_2>19840</custom_number_2>
   </item>
   <item>
    <id>134053</id>
@@ -4105,12 +4082,35 @@ Dir: Salvador Calvo
    <activity_date>2026-09-27</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
+   <custom_number_1>12</custom_number_1>
    <custom_label_0>27.09.2026 15:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134053</custom_label_2>
    <custom_label_3>שלישי בשלייקס</custom_label_3>
    <custom_number_2>20570</custom_number_2>
+  </item>
+  <item>
+   <id>134054</id>
+   <title>ערך סנטימנטלי</title>
+   <description>ערך סנטימנטלי | Sentimental Value הבמאי עטור הפרסים יואכים טרייר מתאחד עם רנטה ריינסב ("האדם הגרוע בעולם") לדרמה מרגשת שהדהימה את פסטיבל קאן וגרפה את הפרס הגדול. לאחר מות אִמה של נורה חוזר לחייה אביה גוסטב (סטלן סקארסגארד), במאי קולנוע מפורסם, ובאמתחתו הצעה: הוא מעוניין שהיא תגלם את התפקיד הראשי ביצירה אוטוביוגרפית חדשה שעליה הוא […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/01/%D7%A2%D7%A8%D7%9A-%D7%A1%D7%A0%D7%98%D7%99%D7%9E%D7%A0%D7%98%D7%9C%D7%99.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a2%d7%a8%d7%9a-%d7%a1%d7%a0%d7%98%d7%99%d7%9e%d7%a0%d7%98%d7%9c%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-09-27</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20260927</custom_number_0>
+   <custom_number_1>12</custom_number_1>
+   <custom_label_0>27.09.2026 15:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134054</custom_label_2>
+   <custom_label_3>שלישי בשלייקס</custom_label_3>
+   <custom_number_2>19840</custom_number_2>
   </item>
   <item>
    <id>133226</id>
@@ -4128,7 +4128,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-27</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
+   <custom_number_1>12</custom_number_1>
    <custom_label_0>27.09.2026 17:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133226</custom_label_2>
@@ -4151,7 +4151,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-27</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
+   <custom_number_1>12</custom_number_1>
    <custom_label_0>27.09.2026 18:15</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133971</custom_label_2>
@@ -4173,7 +4173,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-27</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
+   <custom_number_1>12</custom_number_1>
    <custom_label_0>27.09.2026 19:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133584</custom_label_2>
@@ -4195,7 +4195,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-27</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260927</custom_number_0>
-   <custom_number_1>13</custom_number_1>
+   <custom_number_1>12</custom_number_1>
    <custom_label_0>27.09.2026 20:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132402</custom_label_2>
@@ -4217,7 +4217,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 14:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134058</custom_label_2>
@@ -4240,7 +4240,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 14:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134057</custom_label_2>
@@ -4262,7 +4262,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 15:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134055</custom_label_2>
@@ -4285,7 +4285,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133585</custom_label_2>
@@ -4307,7 +4307,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 17:30</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132165</custom_label_2>
@@ -4329,7 +4329,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 20:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/131740</custom_label_2>
@@ -4351,7 +4351,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 20:00</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132095</custom_label_2>
@@ -4374,7 +4374,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-28</activity_date>
    <location_name>אולם 4</location_name>
    <custom_number_0>20260928</custom_number_0>
-   <custom_number_1>14</custom_number_1>
+   <custom_number_1>13</custom_number_1>
    <custom_label_0>28.09.2026 21:45</custom_label_0>
    <custom_label_1>אולם 4</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132164</custom_label_2>
@@ -4397,7 +4397,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-29</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260929</custom_number_0>
-   <custom_number_1>15</custom_number_1>
+   <custom_number_1>14</custom_number_1>
    <custom_label_0>29.09.2026 11:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133156</custom_label_2>
@@ -4420,11 +4420,34 @@ Dir: Salvador Calvo
    <activity_date>2026-09-29</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260929</custom_number_0>
-   <custom_number_1>15</custom_number_1>
+   <custom_number_1>14</custom_number_1>
    <custom_label_0>29.09.2026 13:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133586</custom_label_2>
    <custom_number_2>21344</custom_number_2>
+  </item>
+  <item>
+   <id>134074</id>
+   <title>ערך סנטימנטלי</title>
+   <description>ערך סנטימנטלי | Sentimental Value הבמאי עטור הפרסים יואכים טרייר מתאחד עם רנטה ריינסב ("האדם הגרוע בעולם") לדרמה מרגשת שהדהימה את פסטיבל קאן וגרפה את הפרס הגדול. לאחר מות אִמה של נורה חוזר לחייה אביה גוסטב (סטלן סקארסגארד), במאי קולנוע מפורסם, ובאמתחתו הצעה: הוא מעוניין שהיא תגלם את התפקיד הראשי ביצירה אוטוביוגרפית חדשה שעליה הוא […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/01/%D7%A2%D7%A8%D7%9A-%D7%A1%D7%A0%D7%98%D7%99%D7%9E%D7%A0%D7%98%D7%9C%D7%99.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a2%d7%a8%d7%9a-%d7%a1%d7%a0%d7%98%d7%99%d7%9e%d7%a0%d7%98%d7%9c%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-09-29</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20260929</custom_number_0>
+   <custom_number_1>14</custom_number_1>
+   <custom_label_0>29.09.2026 15:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134074</custom_label_2>
+   <custom_label_3>שלישי בשלייקס</custom_label_3>
+   <custom_number_2>19840</custom_number_2>
   </item>
   <item>
    <id>133225</id>
@@ -4442,12 +4465,34 @@ Dir: Salvador Calvo
    <activity_date>2026-09-29</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260929</custom_number_0>
-   <custom_number_1>15</custom_number_1>
+   <custom_number_1>14</custom_number_1>
    <custom_label_0>29.09.2026 18:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133225</custom_label_2>
    <custom_label_3>שלישי בשלייקס</custom_label_3>
    <custom_number_2>21334</custom_number_2>
+  </item>
+  <item>
+   <id>133978</id>
+   <title>הנער | צ'ארלי צ'פלין</title>
+   <description>בימוי: צ'ארלי צ'פליןמשחק: צ'ארלי צ'פלין The Kid ארה"ב ,1921 |  51   דקות עלילת הסרט מציגה את הנווד (צ'רלי צ'פלין), אשר מוצא ילד שננטש בסמטה ברחוב על ידי אמו ומחליט לטפל בו ולאמץ אותו. כאשר הילד מתבגר הוא הופך ליד ימינו למעשי גזל ושוד קטנים לצורך הישרדות.</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%a0%d7%a2%d7%a8-%d7%a6%d7%90%d7%a8%d7%9c%d7%99-%d7%a6%d7%a4%d7%9c%d7%99%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-09-29</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20260929</custom_number_0>
+   <custom_number_1>14</custom_number_1>
+   <custom_label_0>29.09.2026 19:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133978</custom_label_2>
+   <custom_number_2>21450</custom_number_2>
   </item>
   <item>
    <id>133966</id>
@@ -4460,16 +4505,38 @@ Dir: Salvador Calvo
    <url>https://www.cinema.co.il/event/%d7%99%d7%aa%d7%95%d7%9d/</url>
    <brand>Cinematheque Tel Aviv</brand>
    <provider>Cinematheque Tel Aviv</provider>
+   <status>archived</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-09-29</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20260929</custom_number_0>
+   <custom_number_1>14</custom_number_1>
+   <custom_label_0>29.09.2026 20:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133966</custom_label_2>
+   <custom_number_2>21344</custom_number_2>
+  </item>
+  <item>
+   <id>133979</id>
+   <title>הקרקס | צ'ארלי צ'פלין</title>
+   <description>הקרקס The Circus ארה"ב ,1928 |  | 69   דקות בימוי: צ'ארלי צ'פליןמשחק: צ'ארלי צ'פלין אחד מהמצחיקים שבסרטיו של הכוכב הגדול הראשון של הקולנוע, זוכה פרס מיוחד בטקס האוסקר הראשון. הנווד מגיע הפעם לקרקס והופך לכוכב, מבלי ידיעתו. הוא מתאהב בבתו של מנהל הקרקס, וכדי להרשים אותה מוכן להסתכן בהליכה על חבל דק. התוצאה היא […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%a7%d7%a8%d7%a7%d7%a1-%d7%a6%d7%90%d7%a8%d7%9c%d7%99-%d7%a6%d7%a4%d7%9c%d7%99%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
    <status>active</status>
    <activity_category>Other</activity_category>
    <activity_date>2026-09-29</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260929</custom_number_0>
-   <custom_number_1>15</custom_number_1>
-   <custom_label_0>29.09.2026 20:30</custom_label_0>
+   <custom_number_1>14</custom_number_1>
+   <custom_label_0>29.09.2026 20:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
-   <custom_label_2>https://cintlv.presglobal.store/order/133966</custom_label_2>
-   <custom_number_2>21344</custom_number_2>
+   <custom_label_2>https://cintlv.presglobal.store/order/133979</custom_label_2>
+   <custom_number_2>21451</custom_number_2>
   </item>
   <item>
    <id>133411</id>
@@ -4487,7 +4554,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-29</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260929</custom_number_0>
-   <custom_number_1>15</custom_number_1>
+   <custom_number_1>14</custom_number_1>
    <custom_label_0>29.09.2026 21:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133411</custom_label_2>
@@ -4509,7 +4576,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-30</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260930</custom_number_0>
-   <custom_number_1>16</custom_number_1>
+   <custom_number_1>15</custom_number_1>
    <custom_label_0>30.09.2026 11:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133413</custom_label_2>
@@ -4531,7 +4598,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-30</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260930</custom_number_0>
-   <custom_number_1>16</custom_number_1>
+   <custom_number_1>15</custom_number_1>
    <custom_label_0>30.09.2026 13:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133587</custom_label_2>
@@ -4553,7 +4620,7 @@ Dir: Salvador Calvo
    <activity_date>2026-09-30</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20260930</custom_number_0>
-   <custom_number_1>16</custom_number_1>
+   <custom_number_1>15</custom_number_1>
    <custom_label_0>30.09.2026 16:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133125</custom_label_2>
@@ -4575,11 +4642,33 @@ Dir: Salvador Calvo
    <activity_date>2026-09-30</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20260930</custom_number_0>
-   <custom_number_1>16</custom_number_1>
+   <custom_number_1>15</custom_number_1>
    <custom_label_0>30.09.2026 18:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133616</custom_label_2>
    <custom_number_2>20174</custom_number_2>
+  </item>
+  <item>
+   <id>133982</id>
+   <title>הליידי משנחאי</title>
+   <description>הליידי משגחאי (ארה"ב 1948) בימוי: אורסון וולס משחק: ריטה היוורת', אורסון וולס THE LADY FROM SHANGHAI Dir: Orson Wells מייקל אוהרה מציל אישה צעירה ויפה מפני שלושה שודדים בסנטרל פארק, ולמחרת מצטרף ליאכטה שלה ושל בעלה, עורך דין לא צעיר ולא בריא, שעומדת לשוט לסן פרנסיסקו. בדרך, בזמן שנדמה לו שהאישה והוא מתאהבים, הוא מקבל […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%9c%d7%99%d7%99%d7%93%d7%99-%d7%9e%d7%a9%d7%a0%d7%97%d7%90%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-09-30</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20260930</custom_number_0>
+   <custom_number_1>15</custom_number_1>
+   <custom_label_0>30.09.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133982</custom_label_2>
+   <custom_number_2>21384</custom_number_2>
   </item>
   <item>
    <id>133588</id>
@@ -4597,11 +4686,100 @@ Dir: Salvador Calvo
    <activity_date>2026-10-01</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261001</custom_number_0>
-   <custom_number_1>17</custom_number_1>
+   <custom_number_1>16</custom_number_1>
    <custom_label_0>01.10.2026 16:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133588</custom_label_2>
    <custom_number_2>21344</custom_number_2>
+  </item>
+  <item>
+   <id>133993</id>
+   <title>קליאו מחמש עד שבע</title>
+   <description>קליאו מחמש עד שבע | Cleo from 5 to 7 אחד מסרטי הדגל בגל החדש הצרפתי חוגג 60 שנה ליציאתו למסכים באפריל 1962. שילוב של סינמה וריטה ומלודרמה, על שעה וחצי בחייה של זמרת (המקבילים לזמן הקולנועי אחד לאחד), המחכה לתוצאות בדיקה רפואית קריטית. 90 דקות בהם אנו מלווים אותה בדירתה, ברחובות פריז ובפגישה עם […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2022/03/%D7%A7%D7%9C%D7%99%D7%90%D7%95-%D7%9E%D7%97%D7%9E%D7%A9.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a7%d7%9c%d7%99%d7%90%d7%95-%d7%9e%d7%97%d7%9e%d7%a9-%d7%a2%d7%93-%d7%a9%d7%91%d7%a2/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-01</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261001</custom_number_0>
+   <custom_number_1>16</custom_number_1>
+   <custom_label_0>01.10.2026 17:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133993</custom_label_2>
+   <custom_number_2>7774</custom_number_2>
+  </item>
+  <item>
+   <id>133608</id>
+   <title>ההיסטוריה של הקול | מועדון סאונדטראק</title>
+   <description>ההיסטוריה של הקול | The History of Sound ליונל, בן למשפחת חקלאים ענייה מקנטקי ובעל כישרון מוזיקלי יוצא דופן, פוגש בקונסרבטוריון בניו אינגלנד את דייוויד, סטודנט המגיע מרקע שונה לחלוטין. אהבתם המשותפת למוזיקה עממית האמריקאית מולידה ידידות עמוקה, ההופכת בהדרגה לסיפור אהבה. לאחר מלחמת העולם הראשונה יוצאים השניים למסע ברחבי הכפרים של ניו אינגלנד כדי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/09/%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A9%D7%9C-%D7%94%D7%A7%D7%95%D7%9C.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94-%d7%a9%d7%9c-%d7%94%d7%a7%d7%95%d7%9c/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-01</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261001</custom_number_0>
+   <custom_number_1>16</custom_number_1>
+   <custom_label_0>01.10.2026 18:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133608</custom_label_2>
+   <custom_number_2>21369</custom_number_2>
+  </item>
+  <item>
+   <id>133994</id>
+   <title>עוברת אורח</title>
+   <description>עוברת אורח | Vagabond זוכה פסטיבל ונציה. מונה ברז'רו מתה. גופתה הקפואה מתגלה בעיצומו של החורף בתעלה בדרום צרפת. מכאן חוזר הסרט לשבועות שהובילו אל מותה, ואנו עדים לחייה העצובים כשהיא נודדת ממקום למקום, מחפשת עבודות זמניות או מחסה. מונה עצמאית, אבל השאיפה הזו לחופש היא שמובילה בסופו של דבר למותה.</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2018/12/%D7%A2%D7%95%D7%91%D7%A8%D7%AA-%D7%90%D7%95%D7%A8%D7%97.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a2%d7%95%d7%91%d7%a8%d7%aa-%d7%90%d7%95%d7%a8%d7%97/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-01</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261001</custom_number_0>
+   <custom_number_1>16</custom_number_1>
+   <custom_label_0>01.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133994</custom_label_2>
+   <custom_number_2>3183</custom_number_2>
+  </item>
+  <item>
+   <id>133692</id>
+   <title>זד</title>
+   <description>זד | Z מותחן פוליטי של קוסטה גבראס ("אמן"), שהכה גלים, ובו איב מונטאן הוא Z, מנהיג מפלגת אופוזיציה פציפיסטית במדינה ים-תיכונית טוטליטרית. במהלך פגישה חשאית הוא נדרס על ידי משאית ומת. שופט ממונה לחקור את מותו וחושף ארגון חשאי הנתמך על ידי הממשלה והמשטרה וקשור מאוד לרצח. למרות האיומים והסכנה שמרחפת מעל לראשו, השופט […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2021/03/%D7%96%D7%93.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/z-%d7%96%d7%93/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-01</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261001</custom_number_0>
+   <custom_number_1>16</custom_number_1>
+   <custom_label_0>01.10.2026 21:15</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133692</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>12366</custom_number_2>
   </item>
   <item>
    <id>133423</id>
@@ -4619,11 +4797,33 @@ Dir: Salvador Calvo
    <activity_date>2026-10-02</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261002</custom_number_0>
-   <custom_number_1>18</custom_number_1>
+   <custom_number_1>17</custom_number_1>
    <custom_label_0>02.10.2026 11:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133423</custom_label_2>
    <custom_number_2>21347</custom_number_2>
+  </item>
+  <item>
+   <id>133650</id>
+   <title>כל הלילה + מפגש</title>
+   <description>כל הלילה (בלגיה/ צרפת 1982) בימוי: שנטל אקרמן משחק: אורור קלמן, צ'קי קאריו, אנג'לו אבזוגלו, פרנק האנדנבון, נטליה אקרמן. TOUTE UNE NUIT Dir: Chantal Ackerman יצירת מופת של שנטל אקרמן שנחשפת כעת בעותק משוחזר. גלריית דמויות אנונימיות – נשים, גברים וילדים – אוהבות וחושקות במהלך ליל קיץ אחד בבריסל. כלואות בתוך סבך התשוקה והבדידות העירונית, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9b%d7%9c-%d7%94%d7%9c%d7%99%d7%9c%d7%94-%d7%9e%d7%a4%d7%92%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-02</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261002</custom_number_0>
+   <custom_number_1>17</custom_number_1>
+   <custom_label_0>02.10.2026 15:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133650</custom_label_2>
+   <custom_number_2>21376</custom_number_2>
   </item>
   <item>
    <id>134066</id>
@@ -4641,11 +4841,79 @@ Dir: Salvador Calvo
    <activity_date>2026-10-02</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261002</custom_number_0>
-   <custom_number_1>18</custom_number_1>
+   <custom_number_1>17</custom_number_1>
    <custom_label_0>02.10.2026 18:45</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134066</custom_label_2>
    <custom_number_2>21344</custom_number_2>
+  </item>
+  <item>
+   <id>133791</id>
+   <title>אדינגטון</title>
+   <description>אדינגטון (ארה"ב 2025) בימוי: ארי אסטר משחק: חואקין פניקס, פדרו פסקל EDDINGTON Dir: Ari Aster אדינגטון היא עיירה קטנה בניו מקסיקו. הזמן הוא מאי 2020, רגע אחרי שפרצה מגיפת הקורונה. סכסוך פורץ בין השריף לבין ראש העיר לגבי מדיניות חבישת המסכות, שהולך וסוחף פנימה עניינים משפחתיים, פוליטיים ובעיקר אישיים. "אדינגטון", מאשש את מעמדו של ארי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%93%d7%99%d7%a0%d7%92%d7%98%d7%95%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-02</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261002</custom_number_0>
+   <custom_number_1>17</custom_number_1>
+   <custom_label_0>02.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133791</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21383</custom_number_2>
+  </item>
+  <item>
+   <id>133992</id>
+   <title>דיוקן של נערה עולה באש</title>
+   <description>דיוקן של נערה עולה באש | Portrait of a Lady on Fire צרפת, 1770. מריאן, ציירת צעירה ויפה, נשכרת כדי לצייר את דיוקנה של אלואיז בת המעמד הגבוה לקראת חתונתה הקרבה. אלא שאלואיז לא מעוניינת להתחתן, ולפיכך מסרבת לשתף פעולה עם ההכנות לחתונה בכלל, ועם ציור הדיוקן בפרט. מריאן מחליטה להסתיר את העובדה שהיא ציירת ומציגה […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/01/%D7%93%D7%99%D7%95%D7%A7%D7%9F-%D7%A9%D7%9C-%D7%A0%D7%A2%D7%A8%D7%94-%D7%A2%D7%95%D7%9C%D7%94-%D7%91%D7%90%D7%A9.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%93%d7%99%d7%95%d7%a7%d7%9f-%d7%a9%d7%9c-%d7%a0%d7%a2%d7%a8%d7%94-%d7%a2%d7%95%d7%9c%d7%94-%d7%91%d7%90%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-02</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261002</custom_number_0>
+   <custom_number_1>17</custom_number_1>
+   <custom_label_0>02.10.2026 21:15</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133992</custom_label_2>
+   <custom_number_2>5575</custom_number_2>
+  </item>
+  <item>
+   <id>133995</id>
+   <title>אפטר בסינמטק | ד"ר סטריינג'לאב</title>
+   <description>ד"ר סטריינג'לאב | Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb סאטירה מרושעת של קובריק, היורקת בארסיות בפניהן של מעצמות העל, בסרט שנוצר בשיאה של המלחמה הקרה. גנרל אמריקאי מטורף מניע את גלגלי המלחמה האטומית והסרט מתאר במקאבריות מבדחת את ההליכים הביורוקרטיים שיביאו לקץ העולם. סרט יוצא דופן, שופע בדיחות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2022/07/%D7%A1%D7%98%D7%A8%D7%99%D7%99%D7%A0%D7%92%D7%9C%D7%90%D7%91.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7-%d7%93%d7%a8-%d7%a1%d7%98%d7%a8%d7%99%d7%99%d7%a0%d7%92%d7%9c%d7%90%d7%91/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-02</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261002</custom_number_0>
+   <custom_number_1>17</custom_number_1>
+   <custom_label_0>02.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133995</custom_label_2>
+   <custom_label_3>אפטר בסינמטק תל אביב!</custom_label_3>
+   <custom_number_2>21454</custom_number_2>
   </item>
   <item>
    <id>130848</id>
@@ -4663,7 +4931,7 @@ Dir: Salvador Calvo
    <activity_date>2026-10-03</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261003</custom_number_0>
-   <custom_number_1>19</custom_number_1>
+   <custom_number_1>18</custom_number_1>
    <custom_label_0>03.10.2026 11:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130848</custom_label_2>
@@ -4685,7 +4953,7 @@ Dir: Salvador Calvo
    <activity_date>2026-10-03</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261003</custom_number_0>
-   <custom_number_1>19</custom_number_1>
+   <custom_number_1>18</custom_number_1>
    <custom_label_0>03.10.2026 12:30</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/134067</custom_label_2>
@@ -4707,11 +4975,100 @@ Dir: Salvador Calvo
    <activity_date>2026-10-03</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261003</custom_number_0>
-   <custom_number_1>19</custom_number_1>
+   <custom_number_1>18</custom_number_1>
    <custom_label_0>03.10.2026 16:30</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133425</custom_label_2>
    <custom_number_2>18477</custom_number_2>
+  </item>
+  <item>
+   <id>133607</id>
+   <title>ההיסטוריה של הקול | מועדון סאונדטראק</title>
+   <description>ההיסטוריה של הקול | The History of Sound ליונל, בן למשפחת חקלאים ענייה מקנטקי ובעל כישרון מוזיקלי יוצא דופן, פוגש בקונסרבטוריון בניו אינגלנד את דייוויד, סטודנט המגיע מרקע שונה לחלוטין. אהבתם המשותפת למוזיקה עממית האמריקאית מולידה ידידות עמוקה, ההופכת בהדרגה לסיפור אהבה. לאחר מלחמת העולם הראשונה יוצאים השניים למסע ברחבי הכפרים של ניו אינגלנד כדי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/09/%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-%D7%A9%D7%9C-%D7%94%D7%A7%D7%95%D7%9C.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94-%d7%a9%d7%9c-%d7%94%d7%a7%d7%95%d7%9c/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-03</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261003</custom_number_0>
+   <custom_number_1>18</custom_number_1>
+   <custom_label_0>03.10.2026 16:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133607</custom_label_2>
+   <custom_number_2>21369</custom_number_2>
+  </item>
+  <item>
+   <id>133987</id>
+   <title>400 המלקות</title>
+   <description>400 המלקות The 400 Blows צרפת ,1959 | צרפתית | 94   דקות בימוי: פרנסואה טריפומשחק: ז‘אן־פייר לאו, קלייר מורייה אנטואן דואנל בן ה־12, ילד רגיש ולא רצוי, סובל מכובד ידם של הוריו ומוריו. הוא נתפס בגניבת מכונת כתיבה ונשלח למוסד לעבריינים צעירים… סרטו הראשון של פרנסואה טריפו, מגדיר את עיקרי ה’גל החדש’ והקולנוע של […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/400-%d7%94%d7%9e%d7%9c%d7%a7%d7%95%d7%aa/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-03</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261003</custom_number_0>
+   <custom_number_1>18</custom_number_1>
+   <custom_label_0>03.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133987</custom_label_2>
+   <custom_number_2>21452</custom_number_2>
+  </item>
+  <item>
+   <id>133691</id>
+   <title>אדינגטון</title>
+   <description>אדינגטון (ארה"ב 2025) בימוי: ארי אסטר משחק: חואקין פניקס, פדרו פסקל EDDINGTON Dir: Ari Aster אדינגטון היא עיירה קטנה בניו מקסיקו. הזמן הוא מאי 2020, רגע אחרי שפרצה מגיפת הקורונה. סכסוך פורץ בין השריף לבין ראש העיר לגבי מדיניות חבישת המסכות, שהולך וסוחף פנימה עניינים משפחתיים, פוליטיים ובעיקר אישיים. "אדינגטון", מאשש את מעמדו של ארי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%93%d7%99%d7%a0%d7%92%d7%98%d7%95%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-03</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261003</custom_number_0>
+   <custom_number_1>18</custom_number_1>
+   <custom_label_0>03.10.2026 20:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133691</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21383</custom_number_2>
+  </item>
+  <item>
+   <id>133539</id>
+   <title>מעשיות מקבילות</title>
+   <description>מעשיות מקבילות (צרפת 2026) בימוי: אסגאר פרהאדי משחק: איזבל הופר, וירג'יני אפירה, ונסן קאסל, פייר ניני, קתרין דנב PARALLEL TALES Dir: Asgar Asghar Farhadi פסטיבל קאן 2026, הבחירה הרשמית. אסגאר פרהאדי, הבמאי האיראני זוכה האוסקר על "פרידה" ו"הסוכן", חוזר עם סרט חדש בצרפתית, בכיכובם של מיטב שחקני הקולנוע הצרפתי – איזבל הופר, קתרין דנב, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%a2%d7%a9%d7%99%d7%95%d7%aa-%d7%9e%d7%a7%d7%91%d7%99%d7%9c%d7%95%d7%aa-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-04</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261004</custom_number_0>
+   <custom_number_1>19</custom_number_1>
+   <custom_label_0>04.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133539</custom_label_2>
+   <custom_number_2>21366</custom_number_2>
   </item>
   <item>
    <id>130746</id>
@@ -4729,12 +5086,534 @@ Dir: Salvador Calvo
    <activity_date>2026-10-04</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261004</custom_number_0>
-   <custom_number_1>20</custom_number_1>
+   <custom_number_1>19</custom_number_1>
    <custom_label_0>04.10.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130746</custom_label_2>
    <custom_label_3>תמול שלשום 2026 | חלק ב'</custom_label_3>
    <custom_number_2>21002</custom_number_2>
+  </item>
+  <item>
+   <id>133711</id>
+   <title>העיתון</title>
+   <description>העיתון (ארה"ב 2017) בימוי: סטיבן שפילברג משחק: מריל סטריפ, טום הנקס, שרה פולסון THE POST Dir: Steven Spielberg קיי גרהם, מוציאה לאור של עיתון, ובן ברדלי, עורך עיתון לוחמני, יוצאים יחד למאבק עיקש בממשל האמריקאי במטרה לחשוף את אחד מפרשות הטיוח הגדולות בהיסטוריה ומציבים את התקשורת כנגד הממשל בקרב ישיר על עתיד הדמוקרטיה. (130 דקות, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%a2%d7%99%d7%aa%d7%95%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-04</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261004</custom_number_0>
+   <custom_number_1>19</custom_number_1>
+   <custom_label_0>04.10.2026 18:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133711</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>1103</custom_number_2>
+  </item>
+  <item>
+   <id>133228</id>
+   <title>טור פרידה</title>
+   <description>טור פרידה | Farewell Column כרמי, עיתונאי תל אביבי, נקרע בין חיי האהבה והמשפחה המתפוררת שלו, הדאגה לבתו שיוצאת להפגנת בלפור והניתוק שנכפה עליו מבנו האוטיסט. במקביל, ברקע שהולך ונצבע בצבעים סוערים ומאיימים, הוא נחשף למסע שטנה תוקפני המתנהל נגדו בשל כתיבתו העיתונאית. החברה הרותחת סביבו מאיימת על שלוות חייו הסוערת. שתי עלילות מתחככות זו […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/08/%D7%98%D7%95%D7%A8-%D7%A4%D7%A8%D7%99%D7%93%D7%94.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%98%d7%95%d7%a8-%d7%a4%d7%a8%d7%99%d7%93%d7%94-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-04</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261004</custom_number_0>
+   <custom_number_1>19</custom_number_1>
+   <custom_label_0>04.10.2026 20:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133228</custom_label_2>
+   <custom_label_3>מאז, עדיין</custom_label_3>
+   <custom_number_2>14944</custom_number_2>
+  </item>
+  <item>
+   <id>132486</id>
+   <title>קראש</title>
+   <description>קראש | Crash אחד מהסרטים הפרובוקטיביים שנוצרו מעולם. הבמאי דיוויד קרוננברג ("ארוחה עירומה","הזבוב") עוסק באובססיביות בשילוב בין האורגני והמכני, בין מין ואלימות ואף מקצין את אמירתו לעומת הסרטים הקודמים. ב"קראש" מתוארת מערכת יחסים פרברטית בין בני זוג המנסים לחפש ריגושים חדשים בחיי המין שלהם. לאחר שהבעל נפגע בתאונת דרכים הוא מתודע אל חבורת נפגעי תאונות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2025/01/%D7%A7%D7%A8%D7%90%D7%A9.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a7%d7%a8%d7%90%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-04</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261004</custom_number_0>
+   <custom_number_1>19</custom_number_1>
+   <custom_label_0>04.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/132486</custom_label_2>
+   <custom_number_2>17068</custom_number_2>
+  </item>
+  <item>
+   <id>133790</id>
+   <title>זד</title>
+   <description>זד | Z מותחן פוליטי של קוסטה גבראס ("אמן"), שהכה גלים, ובו איב מונטאן הוא Z, מנהיג מפלגת אופוזיציה פציפיסטית במדינה ים-תיכונית טוטליטרית. במהלך פגישה חשאית הוא נדרס על ידי משאית ומת. שופט ממונה לחקור את מותו וחושף ארגון חשאי הנתמך על ידי הממשלה והמשטרה וקשור מאוד לרצח. למרות האיומים והסכנה שמרחפת מעל לראשו, השופט […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2021/03/%D7%96%D7%93.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/z-%d7%96%d7%93/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-05</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261005</custom_number_0>
+   <custom_number_1>20</custom_number_1>
+   <custom_label_0>05.10.2026 18:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133790</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>12366</custom_number_2>
+  </item>
+  <item>
+   <id>133807</id>
+   <title>חושניה</title>
+   <description>חושניה – סודות מלחמה | The Secrets of War מסע תחקיר קולנועי אל סיפור שהוסתר ע"י צה"ל במשך 50 שנה – טבח אכזרי של 17 שבויים ישראלים על ידי חיילים סוריים בשני אירועים טראגיים בחזית רמת הגולן במלחמת יום הכיפורים. אירוע אפוף סודות ושקרים המהווה מטאפורה לימים הראשונים של המלחמה הנוראית ההיא שתפסה את מדינת […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/09/%D7%97%D7%95%D7%A9%D7%A0%D7%99%D7%94.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%97%d7%95%d7%a9%d7%a0%d7%99%d7%94-%d7%a1%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%9c%d7%97%d7%9e%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-05</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261005</custom_number_0>
+   <custom_number_1>20</custom_number_1>
+   <custom_label_0>05.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133807</custom_label_2>
+   <custom_label_3>מאז, עדיין</custom_label_3>
+   <custom_number_2>13573</custom_number_2>
+  </item>
+  <item>
+   <id>132925</id>
+   <title>סגל חסר - נבחרי דוקאביב</title>
+   <description>סגל חסר (ישראל 2026) בימוי: אבידע ליבני SAVED BY THE BALL Dir: Avida Livny אף שהתפזרו ברחבי הארץ, אף שאיבדו חברים ומשפחה, אף שחבריהם נחטפו לעזה – כמה ימים אחרי ה-7.10 החליטו שחקני קבוצת הכדורגל "שועלי כפר עזה", ששרדו את היום הנורא, להמשיך ולשחק כדורגל. הם הבינו שהמסגרת, הרדיפה אחר הכדור המתגלגל והריבים עם השופט ישמרו עליהם, גם אם זה רק לתשעים דקות. כשהגיעה ההצעה לחזור ולשחק בטורניר של קיבוצי העוטף הם לא ידעו במה לבחור – האם נכון לשחק "לזכר" (הנרצחים) ו"למען" (החטופים) או לסרב לחזור לשגרה? 96 דקות, עברית</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/05/%D7%A1%D7%92%D7%9C-%D7%97%D7%A1%D7%A8.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a1%d7%92%d7%9c-%d7%97%d7%a1%d7%a8-%d7%a0%d7%91%d7%97%d7%a8%d7%99-%d7%93%d7%95%d7%a7%d7%90%d7%91%d7%99%d7%91/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-05</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261005</custom_number_0>
+   <custom_number_1>20</custom_number_1>
+   <custom_label_0>05.10.2026 20:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/132925</custom_label_2>
+   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; מאז, עדיין</custom_label_3>
+   <custom_number_2>21266</custom_number_2>
+  </item>
+  <item>
+   <id>132933</id>
+   <title>ביי</title>
+   <description>ביי | Bye BYE הוא סרט פיוטי ופוליטי על שני שחקנים צעירים עושים חזרה על רומיאו ויוליה בפארק שקט, בעוד המציאות מתחילה לחדור לעולמם. סיפור האהבה האסור והשנאה בין המשפחות הופך למראה של ישראל העכשווית: הפצת רעל, אלימות משטרתית גוברת והפיכה משטרית מתדרדרת לעבר דיקטטורה. הגבול בין תיאטרון לחיים מיטשטש הפריימים מתמלאים בתמונות ויראליות, מחאות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2025/11/%D7%91%D7%99%D7%99.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%91%d7%99%d7%99-bye/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-06</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261006</custom_number_0>
+   <custom_number_1>21</custom_number_1>
+   <custom_label_0>06.10.2026 18:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/132933</custom_label_2>
+   <custom_label_3>מאז, עדיין</custom_label_3>
+   <custom_number_2>19296</custom_number_2>
+  </item>
+  <item>
+   <id>133869</id>
+   <title>איך לקרוא קולנוע + שלושת הצבעים כחול</title>
+   <description>שלושת הצבעים: כחול (צרפת 1993) בימוי: קז'ישטוף קישלובסקי משחק: ז'ולייט בינוש, בנואה רז'ין THREE COLOURS: BLUE Dir: Krzysztof Kieslowski "כחול" (חירות), הפרק הראשון בטרילוגיית הטריקולור של קישלובסקי, מעמיד במרכזו אישה צעירה ששכלה בתאונה את בעלה ובתה. באמצעים קולנועיים פשוטים אך מרהיבים ובעזרת פסקול מהמם המעביר את רגשותיה של הגיבורה דרך אפקטים ומוסיקה (הגיבורה משחזרת את […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%9a-%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a6%d7%91%d7%a2%d7%99%d7%9d-%d7%9b%d7%97%d7%95%d7%9c/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-06</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261006</custom_number_0>
+   <custom_number_1>21</custom_number_1>
+   <custom_label_0>06.10.2026 18:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133869</custom_label_2>
+   <custom_number_2>21413</custom_number_2>
+  </item>
+  <item>
+   <id>133712</id>
+   <title>בקו האש</title>
+   <description>בקו האש (ארה"ב 1993) בימוי: וולפגנג פיטרסן משחק: קלינט איסטווד, ג'ון מלקוביץ', רנה רוסו In the Line of Fire Dir: Wolfgang Petersen סיפורו של פרנק הוריגן, סוכן קשוח ומתבודד, איש השירות החשאי שהיה משומרי ראשו של הנשיא קנדי ביום בו נרצח. העבר חוזר אליו בעקבות שיחת טלפון אנונימית מפסיכופת מבריק המאיים לרצוח את הנשיא הנוכחי. […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%91%d7%a7%d7%95-%d7%94%d7%90%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-06</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261006</custom_number_0>
+   <custom_number_1>21</custom_number_1>
+   <custom_label_0>06.10.2026 20:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133712</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>10945</custom_number_2>
+  </item>
+  <item>
+   <id>133615</id>
+   <title>ברנינג מן</title>
+   <description>ברנינג מן | Burning Man זוכה פרס הסרט הטוב ביותר ובפרס השחקן הטוב ביותר – פסטיבל חיפה 2025. גבר בן חמישים פלוס מסיע את בנו החייל לבסיס צבאי מרוחק. הם עוצרים לעשן סיגריה בדרך, שותים קפה, משתינים וממשיכים אל לב המדבר. שם הם נפרדים. הבן מנופף לשלום וצועד אל המחנה, האב נוסע הביתה. אלא שמשהו […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2025/12/%D7%91%D7%A8%D7%A0%D7%99%D7%A0%D7%92-%D7%9E%D7%9F.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%91%d7%a8%d7%a0%d7%99%d7%a0%d7%92-%d7%9e%d7%9f-%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-06</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261006</custom_number_0>
+   <custom_number_1>21</custom_number_1>
+   <custom_label_0>06.10.2026 20:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133615</custom_label_2>
+   <custom_label_3>מאז, עדיין</custom_label_3>
+   <custom_number_2>19967</custom_number_2>
+  </item>
+  <item>
+   <id>133754</id>
+   <title>חלומות</title>
+   <description>חלומות | Dreams פרננדו, רקדן בלט צעיר ממקסיקו, חולם על חיים בארצות הברית ותהילה בינלאומית. כשהוא פוגש את ג'ניפר – אשת חברה עשירה ופילנתרופית – הוא מאמין בכל ליבו שהיא זו שתעזור לו להגשים את החלום, ומחליט לברוח ממקסיקו לארה"ב, למרות כל הסכנות הטמונות בדבר. אבל הגעתו לארה"ב מערערת את עולמה המתוכנן בקפידה של ג'ניפר, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2025/06/%D7%97%D7%9C%D7%95%D7%9E%D7%95%D7%AA.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%97%d7%9c%d7%95%d7%9e%d7%95%d7%aa-%d7%9e%d7%99%d7%a9%d7%9c-%d7%a4%d7%a8%d7%a0%d7%a7%d7%95/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-07</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261007</custom_number_0>
+   <custom_number_1>22</custom_number_1>
+   <custom_label_0>07.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133754</custom_label_2>
+   <custom_number_2>18750</custom_number_2>
+  </item>
+  <item>
+   <id>133823</id>
+   <title>ניר עוז גן עדן/ גיהנום פרק 6 + מפגש</title>
+   <description>ניר עוז – גן עדן | גיהינום (ישראל 2026)  בימוי: ירון זילברמן  NIR OZ – Heaven | Hell  Dir: Yaron Zilberman    הקרנה מיוחדת של שלושה פרקים מתוך הפרויקט  התיעודי רחב היריעה ויוצא הדופן של ירון זילברמן (״כלים שלובים״, ״ימים נוראים״, ״שעת נעילה״), המספר את סיפורם המטלטל, הטרגי וההירואי של תושבי קיבוץ ניר עוז, שכשליש […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a0%d7%99%d7%a8-%d7%a2%d7%95%d7%96-%d7%92%d7%9f-%d7%a2%d7%93%d7%9f-%d7%92%d7%99%d7%94%d7%a0%d7%95%d7%9d-%d7%a4%d7%a8%d7%a7-6-%d7%9e%d7%a4%d7%92%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-07</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261007</custom_number_0>
+   <custom_number_1>22</custom_number_1>
+   <custom_label_0>07.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133823</custom_label_2>
+   <custom_label_3>מאז, עדיין</custom_label_3>
+   <custom_number_2>21405</custom_number_2>
+  </item>
+  <item>
+   <id>133931</id>
+   <title>צא וראה</title>
+   <description>צא וראה | Come and See בילורוס הכבושה ע"י גרמנים, 1943. ילד מצטרף אל המאבק נגד הנאצים וחווה את הזוועות של המלחמה וההשמדה של בני עמו ומשפחתו. כל ניסיון לתאר את התופת שדרכה מעביר קלימוב את גיבורו, עלול לחטוא לתמונה המחרידה והמהממת אותה אנו חווים עם בן אנוש המתחיל עם פני ילד ומסיים אותו עם […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2018/05/%D7%A6%D7%90-%D7%95%D7%A8%D7%90%D7%94.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a6%d7%90-%d7%95%d7%a8%d7%90%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-07</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261007</custom_number_0>
+   <custom_number_1>22</custom_number_1>
+   <custom_label_0>07.10.2026 20:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133931</custom_label_2>
+   <custom_label_3>מאז, עדיין</custom_label_3>
+   <custom_number_2>1693</custom_number_2>
+  </item>
+  <item>
+   <id>133693</id>
+   <title>פולחן - נבחרי דוקאביב</title>
+   <description>פולחן בימוי: אסא ריקין ואריאל ברנשטיין הפקה: אייל דץ וגולדה אנטואן שנה של התבוננות בחברה הישראלית שלאחר הזעזוע מאירועי 7 באוקטובר. חברה המחפשת נחמה בטקסים: דתיים, לאומניים, במחאה וגם בשכחה. המבט חוזר אל עזה החרבה, והופך בעצמו לריטואל לאומי ישראל 2026, עברית | 80 דקות</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/08/%D7%A4%D7%95%D7%9C%D7%97%D7%9F.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a4%d7%95%d7%9c%d7%97%d7%9f-%d7%a0%d7%91%d7%97%d7%a8%d7%99-%d7%93%d7%95%d7%a7%d7%90%d7%91%d7%99%d7%91/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-07</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261007</custom_number_0>
+   <custom_number_1>22</custom_number_1>
+   <custom_label_0>07.10.2026 20:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133693</custom_label_2>
+   <custom_label_3>במראה הישראלית ; נבחרי דוקאביב 2026 ; שלישי בשלייקס ; מאז, עדיין</custom_label_3>
+   <custom_number_2>21265</custom_number_2>
+  </item>
+  <item>
+   <id>133870</id>
+   <title>איך לקרוא קולנוע + העיתון</title>
+   <description>העיתון (ארה"ב 2017) בימוי: סטיבן שפילברג משחק: מריל סטריפ, טום הנקס, שרה פולסון THE POST Dir: Steven Spielberg קיי גרהם, מוציאה לאור של עיתון, ובן ברדלי, עורך עיתון לוחמני, יוצאים יחד למאבק עיקש בממשל האמריקאי במטרה לחשוף את אחד מפרשות הטיוח הגדולות בהיסטוריה ומציבים את התקשורת כנגד הממשל בקרב ישיר על עתיד הדמוקרטיה. (130 דקות, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%9a-%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%94%d7%a2%d7%99%d7%aa%d7%95%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-08</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261008</custom_number_0>
+   <custom_number_1>23</custom_number_1>
+   <custom_label_0>08.10.2026 18:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133870</custom_label_2>
+   <custom_number_2>21414</custom_number_2>
+  </item>
+  <item>
+   <id>133824</id>
+   <title>ניר עוז גן עדן/ גיהינום פרקים 7+8</title>
+   <description>ניר עוז – גן עדן | גיהינום (ישראל 2026)  בימוי: ירון זילברמן  NIR OZ – Heaven | Hell  Dir: Yaron Zilberman    הקרנה מיוחדת של שלושה פרקים מתוך הפרויקט  התיעודי רחב היריעה ויוצא הדופן של ירון זילברמן (״כלים שלובים״, ״ימים נוראים״, ״שעת נעילה״), המספר את סיפורם המטלטל, הטרגי וההירואי של תושבי קיבוץ ניר עוז, שכשליש […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a0%d7%99%d7%a8-%d7%a2%d7%95%d7%96-%d7%92%d7%9f-%d7%a2%d7%93%d7%9f-%d7%92%d7%99%d7%94%d7%99%d7%a0%d7%95%d7%9d-%d7%a4%d7%a8%d7%a7%d7%99%d7%9d-78/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-08</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261008</custom_number_0>
+   <custom_number_1>23</custom_number_1>
+   <custom_label_0>08.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133824</custom_label_2>
+   <custom_label_3>מאז, עדיין</custom_label_3>
+   <custom_number_2>21406</custom_number_2>
+  </item>
+  <item>
+   <id>133773</id>
+   <title>של מי את?</title>
+   <description>של מי את? עשר נשים שנישאו לבני קיבוץ כפר עזה הקימו קבוצת ווטסאפ בשם "של מי את?", כדי לסייע זו לזו למצוא את מקומן בקיבוץ. בבוקר 7 באוקטובר מצאו את עצמן בלב המתקפה: נועה הייתה בחודש התשיעי להריונה, ביתה של אליי הוצת כששהתה בו עם בעלה ובתם הפעוטה, וג'סיקה איבדה את נדב, בן זוגה ואבי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/09/%D7%A9%D7%9C-%D7%9E%D7%99-%D7%90%D7%AA.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%9c-%d7%9e%d7%99-%d7%90%d7%aa/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-08</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261008</custom_number_0>
+   <custom_number_1>23</custom_number_1>
+   <custom_label_0>08.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133773</custom_label_2>
+   <custom_number_2>21396</custom_number_2>
+  </item>
+  <item>
+   <id>134070</id>
+   <title>קראש</title>
+   <description>קראש | Crash אחד מהסרטים הפרובוקטיביים שנוצרו מעולם. הבמאי דיוויד קרוננברג ("ארוחה עירומה","הזבוב") עוסק באובססיביות בשילוב בין האורגני והמכני, בין מין ואלימות ואף מקצין את אמירתו לעומת הסרטים הקודמים. ב"קראש" מתוארת מערכת יחסים פרברטית בין בני זוג המנסים לחפש ריגושים חדשים בחיי המין שלהם. לאחר שהבעל נפגע בתאונת דרכים הוא מתודע אל חבורת נפגעי תאונות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2025/01/%D7%A7%D7%A8%D7%90%D7%A9.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a7%d7%a8%d7%90%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-08</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261008</custom_number_0>
+   <custom_number_1>23</custom_number_1>
+   <custom_label_0>08.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134070</custom_label_2>
+   <custom_number_2>17068</custom_number_2>
+  </item>
+  <item>
+   <id>133732</id>
+   <title>מי בעד + הרצאה</title>
+   <description>מי בעד (ספרד 2025) בימוי: סנטיאגו רקאחו משחק: ראול פרננדז דה פבלו, קלארה לאגו, טיטו ולוורדה VOTEMOS Dir: Santiago Requejo בבניין מגורים במרכז מדריד, השכנים נפגשים בדירה של אלברטו כדי להצביע על תקציב להחלפת המעלית. הם מופתעים לשמוע שדייר חדש עם בעיות נפשיות עומד לשכור את אחת הדירות. החדשות מכות בהם קשה, מעלות חששות נסתרים, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%99-%d7%91%d7%a2%d7%93-%d7%94%d7%a8%d7%a6%d7%90%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-09</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261009</custom_number_0>
+   <custom_number_1>24</custom_number_1>
+   <custom_label_0>09.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133732</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21390</custom_number_2>
+  </item>
+  <item>
+   <id>133721</id>
+   <title>שלושה צלמים בביצה</title>
+   <description>שלושה צלמים בביצה (ישראל 2026) בימוי: רחלי רוסינק ואיל בן משה WETLAND Dir: Rachel Rusinek, Eyal Ben-Moshe בשנת 1957 סיימה ישראל לייבש את ביצות ואגם החולה, במטרה לפנות שטח לחקלאות. מבצע ייבוש החולה היה "מבצע הדגל" של מדינת ישראל הצעירה. שנה לפני תום הייבוש, עוזבים שלושה צלמים מירושלים את העבודה, הבית והמשפחה, אוספים את כל […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%a6%d7%9c%d7%9e%d7%99%d7%9d-%d7%91%d7%91%d7%99%d7%a6%d7%94-%d7%a0%d7%91%d7%97%d7%a8%d7%99-%d7%93%d7%95%d7%a7%d7%90%d7%91%d7%99%d7%91/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-09</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261009</custom_number_0>
+   <custom_number_1>24</custom_number_1>
+   <custom_label_0>09.10.2026 12:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133721</custom_label_2>
+   <custom_number_2>21386</custom_number_2>
+  </item>
+  <item>
+   <id>133956</id>
+   <title>איך לקרוא קולנוע + בקו האש</title>
+   <description>"20 דקות לפני" | או איך לקרוא קולנוע  האירוע ייפתח בשעה  13:45 במפגש קצר עם בנימין טוביאס, במסגרת "איך לקרוא קולנוע", סדרה חדשה של הסינמטק שמציעה לקהל כלים פשוטים ומפתחות חדשים לצפייה בקולנוע. המפגש יעסוק בשפה הקולנועית ובאופן שבו אנחנו רואים סרטים, ומשם נעבור ישירות להקרנה. הקרנת הסרט תתחיל בשעה14:10 . בקו האש (ארה"ב 1993) […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%9a-%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%91%d7%a7%d7%95-%d7%94%d7%90%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-09</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261009</custom_number_0>
+   <custom_number_1>24</custom_number_1>
+   <custom_label_0>09.10.2026 13:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133956</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21435</custom_number_2>
+  </item>
+  <item>
+   <id>134077</id>
+   <title>אפטר בסינמטק | טווין פיקס: אש הולכת איתי</title>
+   <description>טווין פיקס: אש הולכת איתי | Twin Peaks: Fire Walk with Me אחרי שתמו פרקי הסדרה המונומנטלית "טווין פיקס" (שלאחרונה נבחרה ע"י מבקרים מכל העולם כיצירת הטלוויזיה הטובה ביותר בתולדות המדיום), יצר דיוויד לינץ' את הסרט הזה המתאר את עשרת ימיה האחרונים של לורה פלמר לפני הירצחה. הסרט היה אמור לספק את כל התשובות לשאלות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2022/04/%D7%98%D7%95%D7%95%D7%99%D7%9F-%D7%A4%D7%99%D7%A7%D7%A1.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7-%d7%98%d7%95%d7%95%d7%99%d7%9f-%d7%a4%d7%99%d7%a7%d7%a1-%d7%90%d7%a9-%d7%94%d7%95%d7%9c%d7%9b%d7%aa-%d7%90%d7%99%d7%aa/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-09</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261009</custom_number_0>
+   <custom_number_1>24</custom_number_1>
+   <custom_label_0>09.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134077</custom_label_2>
+   <custom_label_3>אפטר בסינמטק תל אביב!</custom_label_3>
+   <custom_number_2>21466</custom_number_2>
+  </item>
+  <item>
+   <id>133713</id>
+   <title>משחקי שלטון</title>
+   <description>משחקי שלטון ארה"ב 2011) בימוי: ג'ורג' קלוני משחק: ג'ורג' קלוני, ראיין גוסלינג, פיליפ סיימוןר הופמן THE IDES OF MARCH Dir: George Clooney דרמה פוליטית מהוקצעת נוספת שביים ג'ורג' קלוני עם עצמו בתפקיד מועמד לנשיאות ארצות הברית. ראיין גוזלינג מגלם את סטיבן מאיירס, דוברו המגויס והנאמן של מייק מוריס – ליברל ומועמד בפריימריז של המפלגה הדמוקרטית. […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%a9%d7%97%d7%a7%d7%99-%d7%a9%d7%9c%d7%98%d7%95%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-09</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261009</custom_number_0>
+   <custom_number_1>24</custom_number_1>
+   <custom_label_0>09.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133713</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21382</custom_number_2>
   </item>
   <item>
    <id>130849</id>
@@ -4752,11 +5631,440 @@ Dir: Salvador Calvo
    <activity_date>2026-10-10</activity_date>
    <location_name>אולם 1</location_name>
    <custom_number_0>20261010</custom_number_0>
-   <custom_number_1>26</custom_number_1>
+   <custom_number_1>25</custom_number_1>
    <custom_label_0>10.10.2026 11:00</custom_label_0>
    <custom_label_1>אולם 1</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130849</custom_label_2>
    <custom_number_2>19936</custom_number_2>
+  </item>
+  <item>
+   <id>133957</id>
+   <title>שלושה צלמים בביצה</title>
+   <description>שלושה צלמים בביצה (ישראל 2026) בימוי: רחלי רוסינק ואיל בן משה WETLAND Dir: Rachel Rusinek, Eyal Ben-Moshe בשנת 1957 סיימה ישראל לייבש את ביצות ואגם החולה, במטרה לפנות שטח לחקלאות. מבצע ייבוש החולה היה "מבצע הדגל" של מדינת ישראל הצעירה. שנה לפני תום הייבוש, עוזבים שלושה צלמים מירושלים את העבודה, הבית והמשפחה, אוספים את כל […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%a6%d7%9c%d7%9e%d7%99%d7%9d-%d7%91%d7%91%d7%99%d7%a6%d7%94-%d7%a0%d7%91%d7%97%d7%a8%d7%99-%d7%93%d7%95%d7%a7%d7%90%d7%91%d7%99%d7%91/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-10</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261010</custom_number_0>
+   <custom_number_1>25</custom_number_1>
+   <custom_label_0>10.10.2026 13:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133957</custom_label_2>
+   <custom_number_2>21386</custom_number_2>
+  </item>
+  <item>
+   <id>133664</id>
+   <title>חיים של אחרים</title>
+   <description>חיים של אחרים | The Lives of Others זוכה פרס האוסקר לסרט הזר 2006. ג'ורג' וקריסטינה-מאריה הם זוג אינטלקטואלים נוצץ בגרמניה של ראשית שנות השמונים לפני נפילת החומה. הוא מחזאי ואיש רוח מוכשר והיא שחקנית מצליחה. "HGW XX/7" הוא כינויו של ויזלר, סוכן מיוחד שמונה לעקוב אחר חייהם ולוודא שהם "נאמנים למפלגה". הוא לא שיער […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2019/10/%D7%97%D7%99%D7%99%D7%9D-%D7%A9%D7%9C-%D7%90%D7%97%D7%A8%D7%99%D7%9D.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%97%d7%99%d7%99%d7%9d-%d7%a9%d7%9c-%d7%90%d7%97%d7%a8%d7%99%d7%9d/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-10</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261010</custom_number_0>
+   <custom_number_1>25</custom_number_1>
+   <custom_label_0>10.10.2026 13:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133664</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>5083</custom_number_2>
+  </item>
+  <item>
+   <id>133794</id>
+   <title>משחקי שלטון</title>
+   <description>משחקי שלטון ארה"ב 2011) בימוי: ג'ורג' קלוני משחק: ג'ורג' קלוני, ראיין גוסלינג, פיליפ סיימוןר הופמן THE IDES OF MARCH Dir: George Clooney דרמה פוליטית מהוקצעת נוספת שביים ג'ורג' קלוני עם עצמו בתפקיד מועמד לנשיאות ארצות הברית. ראיין גוזלינג מגלם את סטיבן מאיירס, דוברו המגויס והנאמן של מייק מוריס – ליברל ומועמד בפריימריז של המפלגה הדמוקרטית. […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%a9%d7%97%d7%a7%d7%99-%d7%a9%d7%9c%d7%98%d7%95%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-10</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261010</custom_number_0>
+   <custom_number_1>25</custom_number_1>
+   <custom_label_0>10.10.2026 14:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133794</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21382</custom_number_2>
+  </item>
+  <item>
+   <id>133714</id>
+   <title>סלמה</title>
+   <description>סלמה | Selma בראשית 1965 יצאה התנועה לזכויות האזרח בארה"ב לסדרה של שלושה מצעדים בג'ורג'יה כדי למחות על הצעדים שננקטו כדי לשלול למעשה את זכות ההצבעה מאזרחים שחורים. המאבק הזה היה רגע מכונן עבור התנועה, הוא כלל התנגשות אלימה עם הממסד המקומי, ודרש עורמה פוליטית בכדי לגייס את הציבור ואת הנשיא ג'ונסון לשינוי המציאות. חמישים […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2022/06/%D7%A1%D7%9C%D7%9E%D7%94.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a1%d7%9c%d7%9e%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-10</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261010</custom_number_0>
+   <custom_number_1>25</custom_number_1>
+   <custom_label_0>10.10.2026 17:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133714</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>10393</custom_number_2>
+  </item>
+  <item>
+   <id>133666</id>
+   <title>מכתבים צהובים טרום בכורה</title>
+   <description>מכתבים צהובים (גרמניה/ צרפת/ טורקיה 2026) בימוי: אילקר צ'טאק משחק: אוזגיו נאמאל, טאנסו ביצ'ר, ליילה סמירנה קבאס, איפק בילג'ין YELLOW LETTERS Dir: Ilker Catak זוכה פרס דב הזהב בפסטיבל ברלין. דריה ועזיז הם הזוג המלכותי של עולם התיאטרון באנקרה. רגע אחד במהלך ערב בכורה חגיגי משנה הכל, והשניים מוצאים עצמם בן־לילה בלב סערה פוליטית המאיימת […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%9b%d7%aa%d7%91%d7%99%d7%9d-%d7%a6%d7%94%d7%95%d7%91%d7%99%d7%9d-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-10</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261010</custom_number_0>
+   <custom_number_1>25</custom_number_1>
+   <custom_label_0>10.10.2026 20:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133666</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21381</custom_number_2>
+  </item>
+  <item>
+   <id>133538</id>
+   <title>הסיפור של ליאו ולו</title>
+   <description>הסיפור של ליו ולו (ספרד 2025) בימוי: קרלוס סוראנו משחק: איסק פריז, חוליה סויירו, מנואןל מנקונה LEO &amp; LOU Dir: Carlos Solano ליאו, יתומה אילמת שמתקשה להשתלב, בורחת מהמוסד כדי להגיע לתחרות דיג שמזכירה לה את הוריה. היא חוברת ללו – אדם לא קונפורמיסט, ללא עבודה  וללא כסף. הוא מסכים להעלות אותה לרכב והם יוצאים […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%a9%d7%9c-%d7%9c%d7%99%d7%90%d7%95-%d7%95%d7%9c%d7%95-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-11</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261011</custom_number_0>
+   <custom_number_1>26</custom_number_1>
+   <custom_label_0>11.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133538</custom_label_2>
+   <custom_number_2>21365</custom_number_2>
+  </item>
+  <item>
+   <id>133796</id>
+   <title>חיים של אחרים</title>
+   <description>חיים של אחרים | The Lives of Others זוכה פרס האוסקר לסרט הזר 2006. ג'ורג' וקריסטינה-מאריה הם זוג אינטלקטואלים נוצץ בגרמניה של ראשית שנות השמונים לפני נפילת החומה. הוא מחזאי ואיש רוח מוכשר והיא שחקנית מצליחה. "HGW XX/7" הוא כינויו של ויזלר, סוכן מיוחד שמונה לעקוב אחר חייהם ולוודא שהם "נאמנים למפלגה". הוא לא שיער […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2019/10/%D7%97%D7%99%D7%99%D7%9D-%D7%A9%D7%9C-%D7%90%D7%97%D7%A8%D7%99%D7%9D.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%97%d7%99%d7%99%d7%9d-%d7%a9%d7%9c-%d7%90%d7%97%d7%a8%d7%99%d7%9d/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-11</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261011</custom_number_0>
+   <custom_number_1>26</custom_number_1>
+   <custom_label_0>11.10.2026 18:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133796</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>5083</custom_number_2>
+  </item>
+  <item>
+   <id>132162</id>
+   <title>איצ'י הרוצח</title>
+   <description>איצ'י הרוצח (יפן 2001) בימוי: טקאשי מייקה משחק: סוסומו טראג'ימה, טדאנובו אסאנו ICHI THE KILLE Dir: Takashi Miike החגיגה הרצחנית ומלאת ההמצאות הויזואליות המבריקות והסופר-אגרסיביות של טקאשי מייקה ("אודישן"), בסרטו המבוסס על סדרת המנגה של הידאו יאמאמוטו. שוטר לשעבר משסה את בכירי היאקוזה אלה באלה, באמצעות רוצח שכיר מטורף וסאדיסטי, שמותיר אחריו נהרות של דם. […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%a6%d7%99-%d7%94%d7%a8%d7%95%d7%a6%d7%97-25-%d7%a9%d7%a0%d7%94-%d7%9c%d7%99%d7%a6%d7%99%d7%90%d7%aa-%d7%94%d7%a1%d7%a8%d7%98/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-11</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261011</custom_number_0>
+   <custom_number_1>26</custom_number_1>
+   <custom_label_0>11.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/132162</custom_label_2>
+   <custom_number_2>21224</custom_number_2>
+  </item>
+  <item>
+   <id>133871</id>
+   <title>איך לקרוא קולנוע + סופרגיסטיות</title>
+   <description>סופרג'יסטיות (בריטניה 2015) בימוי: שרה גברון משחק: קארי מאליגן, הלנה בונהם קרטר, מריל סטריפ SUFFRAGETTE Dir: Sarah Gavron מוד ווטס היא צעירה שעובדת במכבסה, 12 שעות ביממה מאז ילדותה. בוקר אחד היא נשלחת מהמכבסה למסור סדינים נקיים ונקלעת במקרה להפגנה של הסופרג'יסטיות – התנועה שלחמה בלונדון למען זכות ההצבעה של נשים בתחילת המאה ה-20. המפגש […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%9a-%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a1%d7%95%d7%a4%d7%a8%d7%92%d7%99%d7%a1%d7%98%d7%99%d7%95%d7%aa/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-12</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261012</custom_number_0>
+   <custom_number_1>27</custom_number_1>
+   <custom_label_0>12.10.2026 18:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133871</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21415</custom_number_2>
+  </item>
+  <item>
+   <id>133531</id>
+   <title>סו</title>
+   <description>סו (ארה"ב 1997) SUE בימוי: עמוס קולק Dir: Amos Kollek משחק: אנה תומפסון, מתיו פאוורס, טהני וולש חורף ניו יורקי קר. סו היא עוד אחת מאותן נשמות גלמודות המאכלסות את העיר – אישה אטרקטיבית בת 30 פלוס שמתגוררת בדירת סטודיו זעירה במנהטן ומסתתרת מאחורי משקפי שמש כהות. ייאושה גדל אחרי שהיא מאבדת את עבודתה. בכל […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a1%d7%95-%d7%a2%d7%9e%d7%95%d7%a1-%d7%a7%d7%95%d7%9c%d7%a7/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-12</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261012</custom_number_0>
+   <custom_number_1>27</custom_number_1>
+   <custom_label_0>12.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133531</custom_label_2>
+   <custom_label_3>מחווה לעמוס קולק</custom_label_3>
+   <custom_number_2>21342</custom_number_2>
+  </item>
+  <item>
+   <id>133864</id>
+   <title>20 שנה ל"מאגר העדויות של הקולנוע הישראלי</title>
+   <description>20 שנה ל"מאגר העדויות של הקולנוע הישראלי" – סדרה מיוחדת מפגש חמישי – משולטהייס עד שטיינבוך, יניב זוהר ונדב פרישמן (יוצרי סדרת הטלוויזיה "קופה ראשית") מדברים על אפרים קישון  סינמטק תל אביב וקרן הקולנוע הישראלי גאים לערוך סדרה של אירועי מחווה לפרויקט הניו-מדיה פורץ הדרך של מרט פרחומובסקי ואביטל בקרמן, שבמסגרתו הופקו עד היום מעל […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/20-%d7%a9%d7%a0%d7%94-%d7%9c%d7%9e%d7%90%d7%92%d7%a8-%d7%94%d7%a2%d7%93%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9c-%d7%94%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%94%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99-4/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-12</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261012</custom_number_0>
+   <custom_number_1>27</custom_number_1>
+   <custom_label_0>12.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133864</custom_label_2>
+   <custom_number_2>21411</custom_number_2>
+  </item>
+  <item>
+   <id>133618</id>
+   <title>מלך הדבורים טרום בכורה</title>
+   <description>מלך הדבורים (בריטניה 2026) בימוי: אנדרו פטרסון משחק: מתיו מקונוהי, קורט ראסל, טוני רוולורי THE RIVALS OF AMZIAH KING Dir: Andrew Peterson עמוק בכפרים הנידחים של אוקלהומה, אמזייה קינג – דבוראי, מוזיקאי ועוגן בקהילתו, מתאחד במפתיע עם בת האומנה שלו לשעבר אחרי שנים בנפרד, ונרגש מההזדמנות לחדש קשרים ולהקים עסק משפחתי. אך עסקי הדבש הם […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%9c%d7%9a-%d7%94%d7%93%d7%91%d7%95%d7%a8%d7%99%d7%9d-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-12</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261012</custom_number_0>
+   <custom_number_1>27</custom_number_1>
+   <custom_label_0>12.10.2026 20:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133618</custom_label_2>
+   <custom_number_2>21358</custom_number_2>
+  </item>
+  <item>
+   <id>133874</id>
+   <title>איך לקרוא קולנוע + מחר יום חדש</title>
+   <description>"20 דקות לפני" | או איך לקרוא קולנוע  האירוע ייפתח בשעה  20:45 במפגש קצר עם ענת אייזנברג, במסגרת "איך לקרוא קולנוע", סדרה חדשה של הסינמטק שמציעה לקהל כלים פשוטים ומפתחות חדשים לצפייה בקולנוע. המפגש יעסוק בשפה הקולנועית ובאופן שבו אנחנו רואים סרטים, ומשם נעבור ישירות להקרנה. הקרנת הסרט יתחיל בשעה21:10. מחר יום חדש (איטליה 2023) […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%9a-%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%9e%d7%97%d7%a8-%d7%99%d7%95%d7%9d-%d7%97%d7%93%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-12</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261012</custom_number_0>
+   <custom_number_1>27</custom_number_1>
+   <custom_label_0>12.10.2026 20:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133874</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21416</custom_number_2>
+  </item>
+  <item>
+   <id>133354</id>
+   <title>שלושת הצבעים: אדום</title>
+   <description>שלושת הצבעים: אדום | Three Colors: Red הפרק החותם את טרילוגיית הטריקולור ממוקם בז'נבה ומתמקד בולנטין, דוגמנית צעירה, הדורסת כלב ומאתרת אחר כך את בעליו – שופט בדימוס הנוהג לצותת לשיחות פרטיות של שכניו. קישלובסקי יוצר מפגש מחשמל בין צעירה הדואגת והמודאגת לבין השופט המנסה לשחק את אלוהים… "אדום" הוא סרט על יעוד וגורל, בדידות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2020/06/a-85.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a6%d7%91%d7%a2%d7%99%d7%9d-%d7%90%d7%93%d7%95%d7%9d/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-13</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261013</custom_number_0>
+   <custom_number_1>28</custom_number_1>
+   <custom_label_0>13.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133354</custom_label_2>
+   <custom_number_2>6178</custom_number_2>
+  </item>
+  <item>
+   <id>133530</id>
+   <title>להב חצוי</title>
+   <description>להב חצוי (ישראל 1992) בימוי: עמוס קולק משחק: פיי דאנוויי, מכרם חורי, מוחמד בכרי, ענת עצמון, שמואל שילוח, קולק DOUBLE EDGE Dir: Amos Kollek פיי דאנוויי מגלמת את פיי מילאנו, עיתונאית אמריקאית שמגיעה לישראל כדי לסקר את הסכסוך הישראלי-פלסטיני עבור העיתון שבו היא עובדת. במהלך הביקור היא פוגשת מילואימניק ישראלי שמחזר אחריה (עמוס קולק, הבמאי), […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9c%d7%94%d7%91-%d7%97%d7%a6%d7%95%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-13</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261013</custom_number_0>
+   <custom_number_1>28</custom_number_1>
+   <custom_label_0>13.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133530</custom_label_2>
+   <custom_label_3>מחווה לעמוס קולק</custom_label_3>
+   <custom_number_2>21343</custom_number_2>
+  </item>
+  <item>
+   <id>133959</id>
+   <title>קאטאנה</title>
+   <description>קָאטָאנֶה / Catane / קומדיה סוריאליסטית רומניה – איטליה / 2025 / 96 דקות בימוי: אוֹאָנָה מִשְּׂקִיֶה Ioana Mischie קאסט: יוליה לומאנרה, כריסטיאן בוטה, בוגדן פארקש, מיחאי מאלאימארה תקציר – תושבי קאטאנה הצהירו שבכל משק בית בכפר יש מישהו הסובל מנכות כלשהי על מנת להימנע מתשלום מיסים. עתה, משנודע להם שנציגי ממשל מגיעים לביקורת, כולם […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a7%d7%90%d7%98%d7%90%d7%a0%d7%94-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-13</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261013</custom_number_0>
+   <custom_number_1>28</custom_number_1>
+   <custom_label_0>13.10.2026 20:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133959</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21436</custom_number_2>
+  </item>
+  <item>
+   <id>130231</id>
+   <title>ליליאנה</title>
+   <description>ליליאנה" (איטליה, 2024) בבימויו של רוג'רו גבאי 84 דקות. באיטלקית עם כתוביות בעברית ובאנגלית LILIANA dir: Ruggero Gabbai "ליליאנה" הוא סרט תיעודי המשחזר את חייה של הסנטורית ליליאנה סגרה, כולל המעצר, ההגליה והפרידה מאביה. סגרה היתה בת 13 כאשר נשלחה לאשוויץ, משם חזרה לבדה – כל קרובי משפחתה נרצחו. במשך שנים רבות שתקה, ורק בשנות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9c%d7%99%d7%9c%d7%99%d7%90%d7%a0%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-14</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261014</custom_number_0>
+   <custom_number_1>29</custom_number_1>
+   <custom_label_0>14.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/130231</custom_label_2>
+   <custom_number_2>20133</custom_number_2>
+  </item>
+  <item>
+   <id>133363</id>
+   <title>מר דידס הולך העירה</title>
+   <description>מר דידס הולך העירה (ארה"ב 1936) בימוי: פרק קפרה משחק: גרי קופר, ג'יין ארתור, ג'ורג' בנקרופט Mr. Deeds goes to Town צעיר פרובינציאלי מן העיירה הנידחת, מאנדרייק פולס, זוכה, בעקבות מות דודו, בירושה מפתיעה בת 20 מיליון דולר. הוא מגיע לניו-יורק, והופך לשיחת העיר. עיתונאית שאפתנית זוכה באמונו, ומצליחה למלא את דפי עיתונה בסיפורים על […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%a8-%d7%93%d7%99%d7%93%d7%a1-%d7%94%d7%95%d7%9c%d7%9a-%d7%94%d7%a2%d7%99%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-14</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261014</custom_number_0>
+   <custom_number_1>29</custom_number_1>
+   <custom_label_0>14.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133363</custom_label_2>
+   <custom_number_2>21352</custom_number_2>
+  </item>
+  <item>
+   <id>134011</id>
+   <title>קלאסט</title>
+   <description>קְלַסָּאט / Dismissed / דרמה עיתונאית (מוקומנטרי) רומניה / 2024 / 91 דקות בימוי: הוֹרְיׇה קוּקוּצְה, ג'וֹרְג' ו. גֶנׇארְד Horia Cucuță, George ve Ganaeaard קאסט: דניאל פופה, דנה מרינקי, אמיליאן אופראה תקציר – עיתונאי עצמאי חוקר תאגיד AI מסתורי לאחר מותו של עובד מבטיח בחברה במסגרת שריפה שפרצה במקום. ככל שהוא מתקדם בחקר האמת, נגלית […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a7%d7%9c%d7%90%d7%a1%d7%98-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-14</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261014</custom_number_0>
+   <custom_number_1>29</custom_number_1>
+   <custom_label_0>14.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134011</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21439</custom_number_2>
   </item>
   <item>
    <id>133977</id>
@@ -4774,7 +6082,7 @@ Dir: Salvador Calvo
    <activity_date>2026-10-15</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261015</custom_number_0>
-   <custom_number_1>31</custom_number_1>
+   <custom_number_1>30</custom_number_1>
    <custom_label_0>15.10.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133977</custom_label_2>
@@ -4796,11 +6104,79 @@ Dir: Salvador Calvo
    <activity_date>2026-10-15</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261015</custom_number_0>
-   <custom_number_1>31</custom_number_1>
+   <custom_number_1>30</custom_number_1>
    <custom_label_0>15.10.2026 20:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/132694</custom_label_2>
    <custom_number_2>21273</custom_number_2>
+  </item>
+  <item>
+   <id>134071</id>
+   <title>איצ'י הרוצח</title>
+   <description>איצ'י הרוצח (יפן 2001) בימוי: טקאשי מייקה משחק: סוסומו טראג'ימה, טדאנובו אסאנו ICHI THE KILLE Dir: Takashi Miike החגיגה הרצחנית ומלאת ההמצאות הויזואליות המבריקות והסופר-אגרסיביות של טקאשי מייקה ("אודישן"), בסרטו המבוסס על סדרת המנגה של הידאו יאמאמוטו. שוטר לשעבר משסה את בכירי היאקוזה אלה באלה, באמצעות רוצח שכיר מטורף וסאדיסטי, שמותיר אחריו נהרות של דם. […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%a6%d7%99-%d7%94%d7%a8%d7%95%d7%a6%d7%97-25-%d7%a9%d7%a0%d7%94-%d7%9c%d7%99%d7%a6%d7%99%d7%90%d7%aa-%d7%94%d7%a1%d7%a8%d7%98/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-15</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261015</custom_number_0>
+   <custom_number_1>30</custom_number_1>
+   <custom_label_0>15.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134071</custom_label_2>
+   <custom_number_2>21224</custom_number_2>
+  </item>
+  <item>
+   <id>133534</id>
+   <title>כרוניקה של משבר</title>
+   <description>כרוניקה של משבר (ישראל/ ארה"ב 2011) בימוי: עמוס קולק CHRONICLING CRISIS Dir: Amos Kollek זהו סיפור של 7 שנים בחייו של עמוס קולק, במאי סרטים. אלו הן שנים קשות ומייאשות. עמוס נפגש עם שתי שחקניות אמריקאיות ומנסה לשכנען להשתתף בסרט נטול תקציב. בניו יורק עמוס איננו מצליח לעבוד ולמצוא מימון. ברחובות ניו יורק הוא פוגש […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9b%d7%a8%d7%95%d7%a0%d7%99%d7%a7%d7%94-%d7%a9%d7%9c-%d7%9e%d7%a9%d7%91%d7%a8/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-16</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261016</custom_number_0>
+   <custom_number_1>31</custom_number_1>
+   <custom_label_0>16.10.2026 13:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133534</custom_label_2>
+   <custom_label_3>מחווה לעמוס קולק</custom_label_3>
+   <custom_number_2>21340</custom_number_2>
+  </item>
+  <item>
+   <id>134018</id>
+   <title>קאטאנה</title>
+   <description>קָאטָאנֶה / Catane / קומדיה סוריאליסטית רומניה – איטליה / 2025 / 96 דקות בימוי: אוֹאָנָה מִשְּׂקִיֶה Ioana Mischie קאסט: יוליה לומאנרה, כריסטיאן בוטה, בוגדן פארקש, מיחאי מאלאימארה תקציר – תושבי קאטאנה הצהירו שבכל משק בית בכפר יש מישהו הסובל מנכות כלשהי על מנת להימנע מתשלום מיסים. עתה, משנודע להם שנציגי ממשל מגיעים לביקורת, כולם […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a7%d7%90%d7%98%d7%90%d7%a0%d7%94-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-16</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261016</custom_number_0>
+   <custom_number_1>31</custom_number_1>
+   <custom_label_0>16.10.2026 14:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134018</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21436</custom_number_2>
   </item>
   <item>
    <id>133974</id>
@@ -4818,11 +6194,34 @@ Dir: Salvador Calvo
    <activity_date>2026-10-16</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261016</custom_number_0>
-   <custom_number_1>32</custom_number_1>
+   <custom_number_1>31</custom_number_1>
    <custom_label_0>16.10.2026 21:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133974</custom_label_2>
    <custom_number_2>21446</custom_number_2>
+  </item>
+  <item>
+   <id>133997</id>
+   <title>אפטר בסינמטק | הנסיכה מונונוקי</title>
+   <description>הנסיכה מונונוקי | Princess Mononoke נסיך צעיר נדבק במחלה חשוכת מרפא אחרי שהותקף ע"י אל חזירי בר מטורף. הוא יוצא לחפש את אל הצבאים מהיער הקסום, היחיד שיכול להציל את חייו. שם הוא נקלע למאבק בין עיירה המייצרת ברזל לבין חיות היער השונות, המונהגות ע"י הנסיכה מונונוקי, נערה שגודלה ע"י זאבים. הסרט הראשון של מיאזאקי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2024/03/%D7%94%D7%A0%D7%A1%D7%99%D7%9B%D7%94-%D7%9E%D7%95%D7%A0%D7%95%D7%A0%D7%95%D7%A7%D7%99.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7-%d7%94%d7%a0%d7%a1%d7%99%d7%9b%d7%94-%d7%9e%d7%95%d7%a0%d7%95%d7%a0%d7%95%d7%a7%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-16</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261016</custom_number_0>
+   <custom_number_1>31</custom_number_1>
+   <custom_label_0>16.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133997</custom_label_2>
+   <custom_label_3>אפטר בסינמטק תל אביב!</custom_label_3>
+   <custom_number_2>17420</custom_number_2>
   </item>
   <item>
    <id>130850</id>
@@ -4840,7 +6239,7 @@ Dir: Salvador Calvo
    <activity_date>2026-10-17</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261017</custom_number_0>
-   <custom_number_1>33</custom_number_1>
+   <custom_number_1>32</custom_number_1>
    <custom_label_0>17.10.2026 11:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130850</custom_label_2>
@@ -4862,11 +6261,102 @@ Dir: Salvador Calvo
    <activity_date>2026-10-17</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261017</custom_number_0>
-   <custom_number_1>33</custom_number_1>
+   <custom_number_1>32</custom_number_1>
    <custom_label_0>17.10.2026 17:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133975</custom_label_2>
    <custom_number_2>21447</custom_number_2>
+  </item>
+  <item>
+   <id>134012</id>
+   <title>שוד המאה</title>
+   <description>שוד המאה / Traffic / דרמה רומניה – בלגיה – הולנד / 2025 / 119 דקות בימוי: תֵּאוֹדוֹרָה מִיחַאי /  תסריט: כְּרִיסְטִיָּאן מוּנְגִּ'יּוּ קאסט: אנהמאריה וַרְטוֹלוֹמֶי, יוֹנוּץ נִיקוּלָאֶה, רארש אנדריצ'י תקציר – מבוסס מקרה אמיתי שהסעיר את אירופה ב – 2012 כאשר קבוצה של מהגרי עבודה מרומניה הצליחו לבצע שוד במוזיאון קונסטל שברוטרדם כשהם גונבים […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%95%d7%93-%d7%94%d7%9e%d7%90%d7%94-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-17</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261017</custom_number_0>
+   <custom_number_1>32</custom_number_1>
+   <custom_label_0>17.10.2026 20:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134012</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21440</custom_number_2>
+  </item>
+  <item>
+   <id>133532</id>
+   <title>פיונה</title>
+   <description>פיונה (ארה"ב 1998) בימוי: עמוס קולק משחק: אנה תומפסון, ביל דאווס FIONA Dir: Amos Kollek כשהייתה פיונה בת כמה חודשים נטשה אותה אמה ברחובות ניו־יורק. סאת הסבל הוגדשה אצל שורה של משפחות אומנות, עד שבשנות העשרה לחייה הפכה לזונה. מאז היא חיה על פי הכללים של עצמה – היא שוכבת עם גברים וגם עם נשים, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a4%d7%99%d7%95%d7%a0%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-17</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261017</custom_number_0>
+   <custom_number_1>32</custom_number_1>
+   <custom_label_0>17.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133532</custom_label_2>
+   <custom_label_3>מחווה לעמוס קולק</custom_label_3>
+   <custom_number_2>21341</custom_number_2>
+  </item>
+  <item>
+   <id>133386</id>
+   <title>הלו בטי טרום בכורה</title>
+   <description>הלו בטי (שוויץ 2026) בימוי: פייר מונאר משחק: שרה שפאלה, מרטין וישר, תומס דגלאס Hallo Betty Dir: Pierre Monnard אמִי קריאולה הייתה חלוצה בתחום הפרסום השווייצרי כאשר יצרה את בטי בוסי בשנת 1956 — דמות בדיונית שהפכה לאייקון קולינרי לאומי, המוכר בכל אזורי השפה והדורות בשווייץ. 108 דקות, גרמנית שוויצרית, תרגום לעברית טרום בכורה באדיבות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%9c%d7%95-%d7%91%d7%98%d7%99-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b%d7%95%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-18</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261018</custom_number_0>
+   <custom_number_1>33</custom_number_1>
+   <custom_label_0>18.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133386</custom_label_2>
+   <custom_number_2>21355</custom_number_2>
+  </item>
+  <item>
+   <id>134009</id>
+   <title>יהודים לייצוא – הסחר האפל של המלחמה הקרה</title>
+   <description>יהודים לייצוא – הסחר האפל של המלחמה הקרה / דוקו הסטורי THE EXPORTED – THE DARK TRADE OF THE COLD WAR צרפת / 2025 / 60 דקות בימוי: פייר גוצ'ל Pierre Goetschel תקציר – לאורך שלושה עשורים, החל מ – 1959 ועד 1989, סחר רחב היקף בבני אדם התנהל ברומניה. רבבות רבות של יהודים הוחלפו […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d-%d7%9c%d7%99%d7%99%d7%a6%d7%95%d7%90-%d7%94%d7%a1%d7%97%d7%a8-%d7%94%d7%90%d7%a4%d7%9c-%d7%a9%d7%9c-%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%94%d7%a7/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-18</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261018</custom_number_0>
+   <custom_number_1>33</custom_number_1>
+   <custom_label_0>18.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134009</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21438</custom_number_2>
   </item>
   <item>
    <id>133976</id>
@@ -4884,11 +6374,145 @@ Dir: Salvador Calvo
    <activity_date>2026-10-18</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261018</custom_number_0>
-   <custom_number_1>34</custom_number_1>
+   <custom_number_1>33</custom_number_1>
    <custom_label_0>18.10.2026 21:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133976</custom_label_2>
    <custom_number_2>21448</custom_number_2>
+  </item>
+  <item>
+   <id>133407</id>
+   <title>טטסואו איש הברזל</title>
+   <description>טטסואו: איש הברזל | Tetsuo: The Iron Man מיצירות הסייבר-פאנק החשובות שנעשו אי פעם, ואחד מסרטי חוד החנית של האקסטרים האסייתי בסוף המאה ה-20 חוגג השנה 30 שנה ומוקרן לראשונה בארץ על המסך הגדול. תהליך מבעית בו אדם מן השורה, טטסואו, מוצא עצמו הופך ליצור כלאיים: אדם-מכונה, בניגוד לרצונו. במקביל, גבר אחר עושה הכל כדי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2020/01/%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA-%D7%9C%D7%90%D7%AA%D7%A8-%D7%94%D7%97%D7%93%D7%A9-73.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%98%d7%98%d7%a1%d7%95%d7%90%d7%95-%d7%90%d7%99%d7%a9-%d7%94%d7%91%d7%a8%d7%96%d7%9c/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-18</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261018</custom_number_0>
+   <custom_number_1>33</custom_number_1>
+   <custom_label_0>18.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133407</custom_label_2>
+   <custom_number_2>5683</custom_number_2>
+  </item>
+  <item>
+   <id>133723</id>
+   <title>שלושה צלמים בביצה</title>
+   <description>שלושה צלמים בביצה (ישראל 2026) בימוי: רחלי רוסינק ואיל בן משה WETLAND Dir: Rachel Rusinek, Eyal Ben-Moshe בשנת 1957 סיימה ישראל לייבש את ביצות ואגם החולה, במטרה לפנות שטח לחקלאות. מבצע ייבוש החולה היה "מבצע הדגל" של מדינת ישראל הצעירה. שנה לפני תום הייבוש, עוזבים שלושה צלמים מירושלים את העבודה, הבית והמשפחה, אוספים את כל […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%a6%d7%9c%d7%9e%d7%99%d7%9d-%d7%91%d7%91%d7%99%d7%a6%d7%94-%d7%a0%d7%91%d7%97%d7%a8%d7%99-%d7%93%d7%95%d7%a7%d7%90%d7%91%d7%99%d7%91/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-19</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261019</custom_number_0>
+   <custom_number_1>34</custom_number_1>
+   <custom_label_0>19.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133723</custom_label_2>
+   <custom_number_2>21386</custom_number_2>
+  </item>
+  <item>
+   <id>133533</id>
+   <title>האפי אנד</title>
+   <description>האפי אנד (ארה"ב/ צרפת 2003) בימוי: עמוס קולק משחק: אודרי טוטו, ג'סטין ת'רו, ג'ניפר טילי HAPPY END Dir: Amos Kollek ואל, צעירה צרפתייה חסרת פרוטה, מגיעה לניו יורק כדי להגשים את חלומה להפוך לכוכבת קולנוע בינלאומית. היא מתמקמת בגינת ביתו של ג'ק, תסריטאי בודד, תקוע וחסר כיוון, שכוכבו דעך. לאחר עימות עמו היא מתעלפת מתשישות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%90%d7%a4%d7%99-%d7%90%d7%a0%d7%93/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-19</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261019</custom_number_0>
+   <custom_number_1>34</custom_number_1>
+   <custom_label_0>19.10.2026 18:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133533</custom_label_2>
+   <custom_label_3>מחווה לעמוס קולק</custom_label_3>
+   <custom_number_2>21338</custom_number_2>
+  </item>
+  <item>
+   <id>134015</id>
+   <title>החלום</title>
+   <description>החלום  / The dream / דרמה קומית רומניה / 2023 / 136 דקות בימוי: קְטָלִין סֶיְזֶסְקוּ Cătălin Saizescu קאסט: ולאד לוג'גאן, ג'אורג'ינה סייזסקו, גלוריה גאיטאן תקציר – מבוסס סיפור אמיתי. אלכס הוא שחקן מתוסכל המחפש להעלות הפקה בימתית. דווקא כשהוא חושב שחלומו נגוז, מגיעה הזדמנות להעלות גרסה של "חלום ליל קיץ" השייקספירי עם קבוצת אסירים […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%97%d7%9c%d7%95%d7%9d-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-19</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261019</custom_number_0>
+   <custom_number_1>34</custom_number_1>
+   <custom_label_0>19.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134015</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21443</custom_number_2>
+  </item>
+  <item>
+   <id>133751</id>
+   <title>הלו בטי</title>
+   <description>הלו בטי (שוויץ 2026) בימוי: פייר מונאר משחק: שרה שפאלה, מרטין וישר, תומס דגלאס Hallo Betty Dir: Pierre Monnard אמִי קריאולה הייתה חלוצה בתחום הפרסום השווייצרי כאשר יצרה את בטי בוסי בשנת 1956 — דמות בדיונית שהפכה לאייקון קולינרי לאומי, המוכר בכל אזורי השפה והדורות בשווייץ. 108 דקות, גרמנית שוויצרית, תרגום לעברית טרום בכורה באדיבות […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%9c%d7%95-%d7%91%d7%98%d7%99-%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-%d7%94%d7%a1%d7%a8%d7%98-%d7%94%d7%a7%d7%95%d7%9c%d7%99%d7%a0%d7%90%d7%a8%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-19</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261019</custom_number_0>
+   <custom_number_1>34</custom_number_1>
+   <custom_label_0>19.10.2026 20:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133751</custom_label_2>
+   <custom_number_2>21391</custom_number_2>
+  </item>
+  <item>
+   <id>133661</id>
+   <title>אהבה</title>
+   <description>אהבה (הונגריה 1970) בימוי: קרולי מאק משחק: לילי דרוואש, מארי טורוצ'יק, איבן דרוואש LOVE Dir: Karoly Makk בשנת 2016, שישים שנה לאחר המהפכה, ובגיל 90, זכה קארוי מאק  לשוב לפסטיבל קאן עם סרטו "אהבה" (Love), אשר בשנת 1971 זיכה אותו בפרס חבר השופטים. הסרט, המבוסס על שני סיפורים קצרים מאת טיבור דרי , חייב את […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%94%d7%91%d7%94-2/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-19</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261019</custom_number_0>
+   <custom_number_1>34</custom_number_1>
+   <custom_label_0>19.10.2026 20:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133661</custom_label_2>
+   <custom_number_2>21380</custom_number_2>
   </item>
   <item>
    <id>121506</id>
@@ -4906,11 +6530,304 @@ Dir: Salvador Calvo
    <activity_date>2026-10-19</activity_date>
    <location_name>אולם 2</location_name>
    <custom_number_0>20261019</custom_number_0>
-   <custom_number_1>35</custom_number_1>
+   <custom_number_1>34</custom_number_1>
    <custom_label_0>19.10.2026 21:00</custom_label_0>
    <custom_label_1>אולם 2</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/121506</custom_label_2>
    <custom_number_2>19631</custom_number_2>
+  </item>
+  <item>
+   <id>133876</id>
+   <title>איך לקרוא קולנוע + שלושת הצבעים לבן</title>
+   <description>"20 דקות לפני" | או איך לקרוא קולנוע  האירוע ייפתח בשעה  18:30 במפגש קצר עם יערה עוזרי, במסגרת "איך לקרוא קולנוע", סדרה חדשה של הסינמטק שמציעה לקהל כלים פשוטים ומפתחות חדשים לצפייה בקולנוע. המפגש יעסוק בשפה הקולנועית ובאופן שבו אנחנו רואים סרטים, ומשם נעבור ישירות להקרנה. הקרנת הסרט יתחיל בשעה19:00. שלושת הצבעים: לבן (צרפת/פולין 1993) […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%9a-%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%94%d7%a6%d7%91%d7%a2%d7%99%d7%9d-%d7%9c%d7%91%d7%9f/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-20</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261020</custom_number_0>
+   <custom_number_1>35</custom_number_1>
+   <custom_label_0>20.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133876</custom_label_2>
+   <custom_number_2>21418</custom_number_2>
+  </item>
+  <item>
+   <id>132672</id>
+   <title>אודיסיאה בחלל מועדון אוטופיה</title>
+   <description>2001: אודיסיאה בחלל (הקרנה + פאנל) – מועדון אוטופיה – סדרת AI (בריטניה 1968)   2001: A Space Odyssey   בימוי: סטנלי קובריק Dir: Stanley Kubrick משחק: קיר דוליי, גארי לוקווד, ויליאם סילבסטר   ספינת החלל "דיסקברי 1" יוצאת אל כוכב הלכת צדק כדי לחקור סימני חיים. על הסיפון צמד אסטרונאוטים ומחשב-על בעל אינטליגנציה מלאכותית […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%95%d7%93%d7%99%d7%a1%d7%99%d7%90%d7%94-%d7%91%d7%97%d7%9c%d7%9c-%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-%d7%90%d7%95%d7%98%d7%95%d7%a4%d7%99%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-20</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261020</custom_number_0>
+   <custom_number_1>35</custom_number_1>
+   <custom_label_0>20.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/132672</custom_label_2>
+   <custom_number_2>21261</custom_number_2>
+  </item>
+  <item>
+   <id>133535</id>
+   <title>אמה ראף</title>
+   <description>אמה ראף (ישראל/ ארה"ב 2025) EMMA ROUGH בימוי: עמוס קולק ואביגיל קולק Dir: Amos Kollek, Abigail Kollek משחק: אביגיל קולק, עמוס קולק, אנה דוברוביצקי , ניקהיל מלנצ'ק, שמואל ברקוביץ, ליה הנליס מילר, נעמה קופר סרט על יחסי אב וביתו המתוודעים זה לזו בניו יורק אחרי שאמה בת ה-20 מסיימת את שירותה בצה"ל ויוצאת בטיסה לניו […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%9e%d7%94-%d7%a8%d7%90%d7%a3-%d7%91%d7%9b%d7%95%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-20</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261020</custom_number_0>
+   <custom_number_1>35</custom_number_1>
+   <custom_label_0>20.10.2026 20:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133535</custom_label_2>
+   <custom_number_2>21345</custom_number_2>
+  </item>
+  <item>
+   <id>134016</id>
+   <title>מקום בטוח</title>
+   <description>מקום בטוח / A safe place / דרמה רומניה / 2025 / 102 דקות בימוי: ססיליה שטפנסקו קאסט: מרינה פאלי, וירג'יל איואניי, אמיל מאנדאנק תקציר – לוצ'יה נוסעת לחופשת קיץ עם משפחתה וזוג חברים לחוף ימה של בולגריה. הכל מתנהל על מי מנוחות עד אשר מופיע גבר זר, לכאורה, שאט, אט מתברר שהוא לא כל […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%9e%d7%a7%d7%95%d7%9d-%d7%91%d7%98%d7%95%d7%97-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-20</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261020</custom_number_0>
+   <custom_number_1>35</custom_number_1>
+   <custom_label_0>20.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134016</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21442</custom_number_2>
+  </item>
+  <item>
+   <id>133877</id>
+   <title>איך לקרוא קולנוע + מר סמית הולך לוושינגט</title>
+   <description>"20 דקות לפני" | או איך לקרוא קולנוע  האירוע ייפתח בשעה  18:00 במפגש קצר עם זיו הרמלין שדר, במסגרת "איך לקרוא קולנוע", סדרה חדשה של הסינמטק שמציעה לקהל כלים פשוטים ומפתחות חדשים לצפייה בקולנוע. המפגש יעסוק בשפה הקולנועית ובאופן שבו אנחנו רואים סרטים, ומשם נעבור ישירות להקרנה. הקרנת הסרט יתחיל בשעה18:30. מר סמית הולך לוושינגטון […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%99%d7%9a-%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%9e%d7%a8-%d7%a1%d7%9e%d7%99%d7%aa-%d7%94%d7%95%d7%9c%d7%9a-%d7%9c%d7%95%d7%95%d7%a9%d7%99%d7%a0%d7%92%d7%98/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-21</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261021</custom_number_0>
+   <custom_number_1>36</custom_number_1>
+   <custom_label_0>21.10.2026 18:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133877</custom_label_2>
+   <custom_label_3>דמוקרטיות במבחן: קולנוע על כוח, אמת והמאבק על חברה חופשית</custom_label_3>
+   <custom_number_2>21419</custom_number_2>
+  </item>
+  <item>
+   <id>134010</id>
+   <title>קומטוג'ן</title>
+   <description>קוֹמָטוֹגֶ'ן / Comatogen / דרמה פסיכולוגית רומניה / 2025 / 104 דקות בימוי:  אִיגוֹר קוֹבִּילֶאַנְסְקִי Igor Cobileanski קאסט: דניאלה ננה, תאודור שופטליה, אנדריי אראדי., עדה לופו, ג'אורג'ה ויסו תקציר – אלינה, אם חד הורית ואחות במקצועה, מתמודדת עם בעיה אתית כאשר היא מנסה לגייס סכום כסף גדול על מנת למנוע מבנה בן ה – 22 […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a7%d7%95%d7%9e%d7%98%d7%95%d7%92%d7%9f-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-21</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261021</custom_number_0>
+   <custom_number_1>36</custom_number_1>
+   <custom_label_0>21.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134010</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21437</custom_number_2>
+  </item>
+  <item>
+   <id>134017</id>
+   <title>רק אנחנו</title>
+   <description>רק אנחנו  / On our own / דרמה רומניה – איטליה / 2026 / 94 דקות בימוי: טודור כריסטיאן ג'יורג'יו קאסט: דניסה וראז'ה, ולאד פורטונה, מארה דיאקונו דוצ'יצ'ה תקציר – פלאביה היא מתבגרת צינית וסרקסטית שחיה לבדה בעיירה קטנה ברומניה לאחר שהוריה עזבו את המקום כדי לעבוד באיטליה. היא נאלצת להתנהל עצמאית ממעט הכסף שהם […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a8%d7%a7-%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-22</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261022</custom_number_0>
+   <custom_number_1>37</custom_number_1>
+   <custom_label_0>22.10.2026 19:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134017</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21441</custom_number_2>
+  </item>
+  <item>
+   <id>134072</id>
+   <title>טטסואו איש הברזל</title>
+   <description>טטסואו: איש הברזל | Tetsuo: The Iron Man מיצירות הסייבר-פאנק החשובות שנעשו אי פעם, ואחד מסרטי חוד החנית של האקסטרים האסייתי בסוף המאה ה-20 חוגג השנה 30 שנה ומוקרן לראשונה בארץ על המסך הגדול. תהליך מבעית בו אדם מן השורה, טטסואו, מוצא עצמו הופך ליצור כלאיים: אדם-מכונה, בניגוד לרצונו. במקביל, גבר אחר עושה הכל כדי […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2020/01/%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA-%D7%9C%D7%90%D7%AA%D7%A8-%D7%94%D7%97%D7%93%D7%A9-73.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%98%d7%98%d7%a1%d7%95%d7%90%d7%95-%d7%90%d7%99%d7%a9-%d7%94%d7%91%d7%a8%d7%96%d7%9c/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-22</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261022</custom_number_0>
+   <custom_number_1>37</custom_number_1>
+   <custom_label_0>22.10.2026 22:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134072</custom_label_2>
+   <custom_number_2>5683</custom_number_2>
+  </item>
+  <item>
+   <id>134021</id>
+   <title>שוד המאה</title>
+   <description>שוד המאה / Traffic / דרמה רומניה – בלגיה – הולנד / 2025 / 119 דקות בימוי: תֵּאוֹדוֹרָה מִיחַאי /  תסריט: כְּרִיסְטִיָּאן מוּנְגִּ'יּוּ קאסט: אנהמאריה וַרְטוֹלוֹמֶי, יוֹנוּץ נִיקוּלָאֶה, רארש אנדריצ'י תקציר – מבוסס מקרה אמיתי שהסעיר את אירופה ב – 2012 כאשר קבוצה של מהגרי עבודה מרומניה הצליחו לבצע שוד במוזיאון קונסטל שברוטרדם כשהם גונבים […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%95%d7%93-%d7%94%d7%9e%d7%90%d7%94-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-23</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261023</custom_number_0>
+   <custom_number_1>38</custom_number_1>
+   <custom_label_0>23.10.2026 13:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134021</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21440</custom_number_2>
+  </item>
+  <item>
+   <id>134078</id>
+   <title>אפטר בסינמטק | רכבת הקרח</title>
+   <description>רכבת הקרח | Snowpiercer בעידן קרח עתידני, השורדים היחידים הם נוסעי רכבת המוצאים את עצמם בתיבת נוח מודרנית, הנעה על מסילה בציר סובב כדור הארץ. אלא שמלחמת המעמדות, מאיימת לקרוע את הרקמה החברתית ברכבת ומסע המאבק של "נוסעי קרון העבדים" מהקרון האחרון לעבר קדמת הרכבת ועד לאיש שמפעיל את הקטר ושולט בגורלם מאיים להרוס את […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2026/09/%D7%A8%D7%9B%D7%91%D7%AA-%D7%94%D7%A7%D7%A8%D7%97.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7-%d7%a8%d7%9b%d7%91%d7%aa-%d7%94%d7%a7%d7%a8%d7%97/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-23</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261023</custom_number_0>
+   <custom_number_1>38</custom_number_1>
+   <custom_label_0>23.10.2026 21:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134078</custom_label_2>
+   <custom_label_3>אפטר בסינמטק תל אביב!</custom_label_3>
+   <custom_number_2>21465</custom_number_2>
+  </item>
+  <item>
+   <id>132990</id>
+   <title>סינמה נירוונה + להתחיל מחדש</title>
+   <description>סינמה נירוונה : מיהי הודו שניצבת הרחק מהדימויים התיירותיים האקזוטיים המוכרים? מרצה: איילת אידלברג יוקרן הסרט:  להתחיל מחדש    בהרצאה זו נצא למסע אל מאחורי הקלעים של הודו העכשווית ונכיר את המציאות החברתית, הכלכלית והתרבותית שמעצבת את עלילת הסרט. נבחן כיצד הקולנוע ההודי החדש אינו רק מספר סיפורים מרגשים, אלא גם משמש מראה ביקורתית למערכת […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a1%d7%99%d7%a0%d7%9e%d7%94-%d7%a0%d7%99%d7%a8%d7%95%d7%95%d7%a0%d7%94-%d7%9c%d7%94%d7%aa%d7%97%d7%99%d7%9c-%d7%9e%d7%97%d7%93%d7%a9/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-24</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261024</custom_number_0>
+   <custom_number_1>39</custom_number_1>
+   <custom_label_0>24.10.2026 17:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/132990</custom_label_2>
+   <custom_number_2>21319</custom_number_2>
+  </item>
+  <item>
+   <id>134019</id>
+   <title>שלושה ימים בספטמבר</title>
+   <description>שלושה ימים בספטמבר  /  Three days in September/ דרמה רומניה / 2026 / 77 דקות בימוי: טוּדוֹר ג'וּרְג'יוּ Tudor Giurgiu קאסט: אנדראה וסילה, אמיליאן אופראה, קונרד מריקופר תקציר – מה עושה כלה ערב חתונתה כשהיא מגלה כי ארוסה בגד בה ואף הכניס להריון אישה אחרת? בורחת! גיבורת הסרט העוזבת את המקום, החברים והאורחים ויוצאת לעבר […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%99%d7%9e%d7%99%d7%9d-%d7%91%d7%a1%d7%a4%d7%98%d7%9e%d7%91%d7%a8-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-24</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261024</custom_number_0>
+   <custom_number_1>39</custom_number_1>
+   <custom_label_0>24.10.2026 20:45</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134019</custom_label_2>
+   <custom_label_3>שפה זרה: פסטיבל הקולנוע הרומני</custom_label_3>
+   <custom_number_2>21444</custom_number_2>
+  </item>
+  <item>
+   <id>133555</id>
+   <title>נשים במשפט, סיפורה של מארי קלייר טרום בכ</title>
+   <description>נשים במשפט, סיפורה של מארי קלייר (צרפת 2026) בימוי: לוריאן אסקפרה, איבו מילר משחק: שרלוט גינסבורג, ססיל דה פראנס, פלונס לוארה  קיילה L'affaire Marie-Claire Dir: Lauriane Escaffre, Yvo Muller צרפת, 1972. משפט היסטורי מטלטל את המדינה: מארי־קלייר שבלייה, בת 16, מואשמת בהפלה בלתי חוקית. לצדה ניצבות על דוכן הנאשמים אמה והנשים שסייעו לה. מול בית […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a0%d7%a9%d7%99%d7%9d-%d7%91%d7%9e%d7%a9%d7%a4%d7%98-%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%94-%d7%a9%d7%9c-%d7%9e%d7%90%d7%a8%d7%99-%d7%a7%d7%9c%d7%99%d7%99%d7%a8-%d7%98%d7%a8%d7%95%d7%9d-%d7%91%d7%9b/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-25</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261025</custom_number_0>
+   <custom_number_1>40</custom_number_1>
+   <custom_label_0>25.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133555</custom_label_2>
+   <custom_number_2>21367</custom_number_2>
   </item>
   <item>
    <id>130747</id>
@@ -4928,12 +6845,166 @@ Dir: Salvador Calvo
    <activity_date>2026-10-25</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261025</custom_number_0>
-   <custom_number_1>41</custom_number_1>
+   <custom_number_1>40</custom_number_1>
    <custom_label_0>25.10.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130747</custom_label_2>
    <custom_label_3>תמול שלשום 2026 | חלק ב'</custom_label_3>
    <custom_number_2>21003</custom_number_2>
+  </item>
+  <item>
+   <id>133470</id>
+   <title>פריקס</title>
+   <description>פריקס | Freaks סרט נועז, גם במושגים של ימינו, שהפך לאחד מסרטי הפולחן הנודעים בתולדות הקולנוע. קליאופטרה, אמנית הטרפז היפיפייה, מעמידה פנים כמאוהבת בננס במטרה לרשת את כספו. בעזרת הרקולס מאהבה היא מנסה להרעילו. כאשר מתגלה המזימה מתכננים חריגי הקרקס נקמה איומה עפ"י כללי טקס עתיקים. למרות הנושא הבוטה והשימוש בחריגים אמיתיים – ננסים, גמדים, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2019/02/%D7%A4%D7%A8%D7%99%D7%A7%D7%A1.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a4%d7%a8%d7%99%d7%a7%d7%a1/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-25</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261025</custom_number_0>
+   <custom_number_1>40</custom_number_1>
+   <custom_label_0>25.10.2026 22:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133470</custom_label_2>
+   <custom_number_2>3478</custom_number_2>
+  </item>
+  <item>
+   <id>134020</id>
+   <title>החבר'ה מהחוג למשפטים</title>
+   <description>החבר'ה מהחוג למשפטים  / The guys from law / דרמה קומית רומניה / 2025 / 72 דקות בימוי: מִיכָאֵלָה אָנִיטֵי Mihaela Anitei קאסט: טודור קוקו-דומיטרסקו, אילאנה פויו, צ'זרה פטרדיאנו תקציר – קבוצה של שבעה סטודנטים למשפטים הנמצאים בקשר חברי עמוק רב שנים, מתמודדים עם אתגרים שונים ומצליחים להתבגר בעל כורחם בעקבות סיוע שהם מעניקים לחברתם […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2023/06/logo.png</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%94%d7%97%d7%91%d7%a8%d7%94-%d7%9e%d7%94%d7%97%d7%95%d7%92-%d7%9c%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a0%d7%95%d7%a2-%d7%a8%d7%95%d7%9e%d7%a0%d7%99/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-26</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261026</custom_number_0>
+   <custom_number_1>41</custom_number_1>
+   <custom_label_0>26.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134020</custom_label_2>
+   <custom_number_2>21445</custom_number_2>
+  </item>
+  <item>
+   <id>133637</id>
+   <title>חייה הכפולים של ורוניק</title>
+   <description>חייה הכפולים של ורוניק | The Double Life of Véronique סיפורן המצטלב של שתי נערות זהות, ורוניקה הפולנייה וורוניק הצרפתייה, שנולדו באותו יום ובאותה שעה, ואת שתיהן מגלמת השחקנית אירן ז'אקוב. שתי הורוניקות לא נפגשו מעולם, אבל כשורוניקה מתמוטטת בזמן הופעה על הבמה, חשה ורוניק שחייה השתנו לחלוטין. סרט מיסטי-מלנכולי פיוטי, מלווה במוסיקה השמימית של […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2021/09/%D7%95%D7%A8%D7%95%D7%A0%D7%99%D7%A7.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%97%d7%99%d7%99%d7%94-%d7%94%d7%9b%d7%a4%d7%95%d7%9c%d7%99%d7%9d-%d7%a9%d7%9c-%d7%95%d7%a8%d7%95%d7%a0%d7%99%d7%a7/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-27</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261027</custom_number_0>
+   <custom_number_1>42</custom_number_1>
+   <custom_label_0>27.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133637</custom_label_2>
+   <custom_number_2>8797</custom_number_2>
+  </item>
+  <item>
+   <id>133756</id>
+   <title>בתה של אפריל</title>
+   <description>בתה של אפריל | Aprils Daughter ולריה בת ה-17 נכנסת להריון מהחבר המתבגר שלה. היא בוחרת לא לשתף את אמה, אפריל, הנמצאת הרחק מבית הקיט שבו היא מתגוררת עם אחותה קלרה. לאחר שקלרה נשברת ומספרת, האם ממהרת להגיע למקום, מלאה בתמיכה הורית. רק לאחר שהרך נולד ניתן להתחיל להבין מדוע היתה ולריה כה נחושה להותיר […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2024/01/%D7%91%D7%AA%D7%94-%D7%A9%D7%9C-%D7%90%D7%A4%D7%A8%D7%99%D7%9C.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%91%d7%aa%d7%94-%d7%a9%d7%9c-%d7%90%d7%a4%d7%a8%d7%99%d7%9c/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-28</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261028</custom_number_0>
+   <custom_number_1>43</custom_number_1>
+   <custom_label_0>28.10.2026 11:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133756</custom_label_2>
+   <custom_number_2>14410</custom_number_2>
+  </item>
+  <item>
+   <id>133366</id>
+   <title>רעל ותחרה</title>
+   <description>רעל ותחרה | Arsenic and Old Lace יצירת המופת המקאברית של פרנק קאפרה הדגול היא קומדיה שחורה משחור על מבקר תיאטרון שמגיע לבית דודותיו הישישות ומגלה שמבעד לחיוכים מסתתרות שתי נשים רצחניות שמסתירות יותר מגופה אחת בארון. יחד עם הגיבור, מצליח הקהל גם הוא להיות מופתע בכל פעם מחדש. סרט על טירוף שכולו דבש ומתיקות, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2020/06/arsenic.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a8%d7%a2%d7%9c-%d7%95%d7%aa%d7%97%d7%a8%d7%94/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-28</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261028</custom_number_0>
+   <custom_number_1>43</custom_number_1>
+   <custom_label_0>28.10.2026 18:30</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/133366</custom_label_2>
+   <custom_number_2>196</custom_number_2>
+  </item>
+  <item>
+   <id>134073</id>
+   <title>פריקס</title>
+   <description>פריקס | Freaks סרט נועז, גם במושגים של ימינו, שהפך לאחד מסרטי הפולחן הנודעים בתולדות הקולנוע. קליאופטרה, אמנית הטרפז היפיפייה, מעמידה פנים כמאוהבת בננס במטרה לרשת את כספו. בעזרת הרקולס מאהבה היא מנסה להרעילו. כאשר מתגלה המזימה מתכננים חריגי הקרקס נקמה איומה עפ"י כללי טקס עתיקים. למרות הנושא הבוטה והשימוש בחריגים אמיתיים – ננסים, גמדים, […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2019/02/%D7%A4%D7%A8%D7%99%D7%A7%D7%A1.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%a4%d7%a8%d7%99%d7%a7%d7%a1/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-29</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261029</custom_number_0>
+   <custom_number_1>44</custom_number_1>
+   <custom_label_0>29.10.2026 22:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134073</custom_label_2>
+   <custom_number_2>3478</custom_number_2>
+  </item>
+  <item>
+   <id>134075</id>
+   <title>אפטר בסינמטק | 25 שנה לדוני דארקו</title>
+   <description>דוני דארקו | Donnie Darko ה-30 לאוקטובר זה היום בו העולם יגיע לקיצו. סרט הביכורים המורכב של ריצ’רד קלי שהפך לסרט פולחן חוגג 25 שנה. פנטזיה על בחור בעייתי המתקשר עם דמות של ארנב ענק שמורה לו לבצע אקטים של אלימות יצירתית, בעיקר לאחר שמנוע של מטוס נוחת מהשמיים ומתרסק לו בתוך החדר. מבט נוקב […]</description>
+   <price>45.00 ILS</price>
+   <image>
+    <url>https://www.cinema.co.il/wp-content/uploads/2021/09/%D7%93%D7%95%D7%A0%D7%99-%D7%93%D7%90%D7%A8%D7%A7%D7%95.jpg</url>
+   </image>
+   <url>https://www.cinema.co.il/event/%d7%90%d7%a4%d7%98%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%9e%d7%98%d7%a7-25-%d7%a9%d7%a0%d7%94-%d7%9c%d7%93%d7%95%d7%a0%d7%99-%d7%93%d7%90%d7%a8%d7%a7%d7%95/</url>
+   <brand>Cinematheque Tel Aviv</brand>
+   <provider>Cinematheque Tel Aviv</provider>
+   <status>active</status>
+   <activity_category>Other</activity_category>
+   <activity_date>2026-10-30</activity_date>
+   <location_name>סינמטק תל אביב</location_name>
+   <custom_number_0>20261030</custom_number_0>
+   <custom_number_1>45</custom_number_1>
+   <custom_label_0>30.10.2026 21:00</custom_label_0>
+   <custom_label_1>סינמטק תל אביב</custom_label_1>
+   <custom_label_2>https://cintlv.presglobal.store/order/134075</custom_label_2>
+   <custom_number_2>21455</custom_number_2>
   </item>
   <item>
    <id>130748</id>
@@ -4951,7 +7022,7 @@ Dir: Salvador Calvo
    <activity_date>2026-11-01</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261101</custom_number_0>
-   <custom_number_1>48</custom_number_1>
+   <custom_number_1>47</custom_number_1>
    <custom_label_0>01.11.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130748</custom_label_2>
@@ -4974,7 +7045,7 @@ Dir: Salvador Calvo
    <activity_date>2026-11-08</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261108</custom_number_0>
-   <custom_number_1>55</custom_number_1>
+   <custom_number_1>54</custom_number_1>
    <custom_label_0>08.11.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130749</custom_label_2>
@@ -4997,7 +7068,7 @@ Dir: Salvador Calvo
    <activity_date>2026-11-15</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261115</custom_number_0>
-   <custom_number_1>62</custom_number_1>
+   <custom_number_1>61</custom_number_1>
    <custom_label_0>15.11.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130750</custom_label_2>
@@ -5020,7 +7091,7 @@ Dir: Salvador Calvo
    <activity_date>2026-11-21</activity_date>
    <location_name>סינמטק תל אביב</location_name>
    <custom_number_0>20261121</custom_number_0>
-   <custom_number_1>68</custom_number_1>
+   <custom_number_1>67</custom_number_1>
    <custom_label_0>21.11.2026 11:00</custom_label_0>
    <custom_label_1>סינמטק תל אביב</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/133429</custom_label_2>
@@ -5042,7 +7113,7 @@ Dir: Salvador Calvo
    <activity_date>2026-11-22</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261122</custom_number_0>
-   <custom_number_1>69</custom_number_1>
+   <custom_number_1>68</custom_number_1>
    <custom_label_0>22.11.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130751</custom_label_2>
@@ -5065,7 +7136,7 @@ Dir: Salvador Calvo
    <activity_date>2026-11-29</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261129</custom_number_0>
-   <custom_number_1>76</custom_number_1>
+   <custom_number_1>75</custom_number_1>
    <custom_label_0>29.11.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130752</custom_label_2>
@@ -5088,7 +7159,7 @@ Dir: Salvador Calvo
    <activity_date>2026-12-06</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261206</custom_number_0>
-   <custom_number_1>83</custom_number_1>
+   <custom_number_1>82</custom_number_1>
    <custom_label_0>06.12.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130753</custom_label_2>
@@ -5111,7 +7182,7 @@ Dir: Salvador Calvo
    <activity_date>2026-12-13</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261213</custom_number_0>
-   <custom_number_1>90</custom_number_1>
+   <custom_number_1>89</custom_number_1>
    <custom_label_0>13.12.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130754</custom_label_2>
@@ -5134,7 +7205,7 @@ Dir: Salvador Calvo
    <activity_date>2026-12-20</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261220</custom_number_0>
-   <custom_number_1>97</custom_number_1>
+   <custom_number_1>96</custom_number_1>
    <custom_label_0>20.12.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130755</custom_label_2>
@@ -5157,7 +7228,7 @@ Dir: Salvador Calvo
    <activity_date>2026-12-27</activity_date>
    <location_name>אולם 3</location_name>
    <custom_number_0>20261227</custom_number_0>
-   <custom_number_1>104</custom_number_1>
+   <custom_number_1>103</custom_number_1>
    <custom_label_0>27.12.2026 17:00</custom_label_0>
    <custom_label_1>אולם 3</custom_label_1>
    <custom_label_2>https://cintlv.presglobal.store/order/130756</custom_label_2>
